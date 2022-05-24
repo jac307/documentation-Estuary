@@ -30,3 +30,21 @@ If you want to make changes to your text file, click on the pencil icon / Si qui
    
 <img src="imgs/13.png" width="600">  
   
+7. On your Video folder: click on "Add file", then "Upload files" / En tu carpeta de Video: dale click en "Añadir archivo", después "Subir archivos".  
+   
+<img src="imgs/14.png" width="600">  
+  
+8. Click on "Choose your files". Then select/open them. / Click en "Eleguir tus archivos". Después seleccionalos/ábrelos.  
+   
+<img src="imgs/15.png" width="600">   
+<img src="imgs/16.png" width="600">   
+  
+9. Wait until they're ready, then Commit changes. Wait until the files are processed / Espera a que estén listos y después manda los cambios. Espera a que se procesen los archivos.   
+  
+<img src="imgs/17.png" width="600">  
+<img src="imgs/18.png" width="600">  
+  
+10. Check that your files are on the folder. / Revisa que tus archivos estén en el folder.  
+  
+<img src="imgs/19.png" width="600">  
+  
