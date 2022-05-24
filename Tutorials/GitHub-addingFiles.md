@@ -23,5 +23,10 @@ Hay muchas formas de añadir/crear archivos en GitHub. Este tutorial tiene los p
   
 6. Go to the end and click on "Commit new file" / Ve al final y dale click en "Commit nuevo archivo".  
    
-<img src="imgs/11.png" width="600">  
+<img src="imgs/12.png" width="600">  
+  
+Now you can see your new folder and file / Ahora puedes ver tu nuevo nombre y archivo.  
+If you want to make changes to your text file, click on the pencil icon / Si quieres hacer cambios en el archivo de texto, dale click en el ícono de lapiz.  
+   
+<img src="imgs/13.png" width="600">  
   
