@@ -48,3 +48,5 @@ If you want to make changes to your text file, click on the pencil icon / Si qui
   
 <img src="imgs/19.png" width="600">  
   
+__________________________________________________________  
+  
