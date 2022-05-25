@@ -21,7 +21,7 @@ En este ejemplo, copié/pegué los links en los archivos README de Imagen y de V
    
 <img src="imgs/56.png" width="600"><img src="imgs/60.png" width="600">   
   
-+ En Estuary, you can use this links on CineCer0 / En Estuary, ya puedes usar estos links en CineCer0.  
++ En Estuary, you can use these links on CineCer0 / En Estuary, ya puedes usar estos links en CineCer0.  
   
 <img src="imgs/57.png" width="600">  
 <img src="imgs/61.png" width="600">  
