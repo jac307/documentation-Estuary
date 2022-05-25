@@ -1,6 +1,6 @@
 ## Image
 
-Links to use in CineCer0:  
+Links to use in CineCer0 / Links para usar en CineCer0:  
 
 + https://github.com/jac307/documentation-Estuary/blob/main/Image/00.png?raw=true
 + https://github.com/jac307/documentation-Estuary/blob/main/Image/01.png?raw=true
