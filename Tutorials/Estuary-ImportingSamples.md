@@ -80,3 +80,23 @@ En este caso también añadí algo de información de los samples.
   
 <img src="imgs/45.png" width="600"> 
 <img src="imgs/46.png" width="600"> 
+  
+17. Go to: / Ve a: [Estuary](https://estuary.mcmaster.ca/))
+18. Go into Solo Mode or enter an ensamble / Ve a Modo Solo o entra a un ensamble.  
+19. In the terminal, send your `!reslist "pasted-url"`/ En la terminal, envía tu `!reslist "url-copiada"`.  
+  
+<img src="imgs/47.png" width="600">  
+  
+Now you can use your samples! / Ahora puedes usar tus samples!
+  
+<img src="imgs/48.png" width="300"><img src="imgs/49.png" width="300">   
+  
+In Solo Mode, you will have to do this last step everytime you enter. In Collaborative/Ensamble mode, it should be saved.  
+En Modo Solo, tendrás que hacer este último paso cada vez que entres. En modo Colaborativo/Ensamble, se deberían guardar.  
+  
+You can do `!localview audiomap` on the terminal to check all available samples. Your new samples should be there.  
+Puedes enviar `!localview audiomap` en la terminal para revisar todos los samples disponibles. Tus nuevos samples deberían de estar ahí. 
+  
+  
+<img src="imgs/50.png" width="600"> 
+  
