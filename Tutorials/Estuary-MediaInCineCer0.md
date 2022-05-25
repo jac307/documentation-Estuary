@@ -26,3 +26,10 @@ En este ejemplo, copié/pegué los links en los archivos README de Imagen y de V
 <img src="imgs/57.png" width="600">  
 <img src="imgs/61.png" width="600">  
   
+You can follow these steps to use GIFs. Get the link the same as images, then use it with `image "url"` function in CineCer0 to play them.  
+Puedes seguir los mismos pasos para usar GIFs. Obten el link del mismo modo que con las imágenes, luego úsalo con la función `image "url"` en CineCer0.   
+  
+<img src="imgs/62.png" width="600">  
+<img src="imgs/63.png" width="600">  
+<img src="imgs/64.png" width="600">  
+  
