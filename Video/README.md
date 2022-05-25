@@ -7,6 +7,6 @@ Links to use in CineCer0 / Links para usar en CineCer0:
 + https://github.com/jac307/documentation-Estuary/blob/main/Video/02.mov?raw=true
 + https://github.com/jac307/documentation-Estuary/blob/main/Video/03.mov?raw=true
 
-Videos for Hydra:  
+Videos for Hydras:  
   
 ![myvideo](00.mov)
