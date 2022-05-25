@@ -5,4 +5,4 @@ This is a documentation for everyone that wants to use their own media (video, i
 + [Tutoriales / Tutoriales](Tutorials/README.md)
 
 
-+ [Sound Samples / Samples de Sonido](Sounds/README.md)
++ [Sound Samples / Samples de Sonido](Sound/README.md)
