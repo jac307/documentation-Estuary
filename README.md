@@ -6,4 +6,4 @@ This is a documentation for everyone that wants to use their own media (video, i
 
 
 + [Sound Samples / Samples de Sonido](Sound/README.md)
-+ [Videos](Videos/README.md)
++ [Videos](Video/README.md)
