@@ -1,25 +1,25 @@
 ## Temporally importing samples in Estuary / Importando samples temporalmente en Estuary
 
-1. On your repository, go to the section you have uploaded your sound files / Es tu repositorio, ve a la sección donde has subido tus archivos de sonido.  
-2. Create a new file / Crea una nuevo archivo.  
++ On your repository, go to the section you have uploaded your sound files / Es tu repositorio, ve a la sección donde has subido tus archivos de sonido.  
++ Create a new file / Crea una nuevo archivo.  
   
 In this example, I have a folder named "Sound" with three sub-folders with different samples.  
 En este ejemplo tengo un folder llamado "Sound" con tres sub-folders con differentes sonidos.  
   
 <img src="imgs/26.png" width="600">  
   
-2. Name your file and add the extension ".json" / Escribe el nombre y agrega la extensión ".json".  
++ Name your file and add the extension ".json" / Escribe el nombre y agrega la extensión ".json".  
   
 <img src="imgs/27.png" width="600">  
    
-3. You will make a list of your sound samples `[]` / Escribirás una lista con tus samples de sonido `[]`.  
++ You will make a list of your sound samples `[]` / Escribirás una lista con tus samples de sonido `[]`.  
   
 The sintax is the following: `[ { "url":"locationInGitHub","type":"audio","bank":"name-of-the-bank","n":samplesNumber} ]`.  
 La sintaxis es la siguiente: `[ { "url":"locaciónEnGitHub","type":"audio","bank":"nombre-del-banco","n":númeroDeSample} ]`.  
   
 <img src="imgs/28.png" width="600">  
    
-4. Write the correct information in those fields / Escribe la información correcta en esos campos.  
++ Write the correct information in those fields / Escribe la información correcta en esos campos.  
   
 <img src="imgs/29.png" width="300"><img src="imgs/30.png" width="300">  
    
@@ -28,8 +28,8 @@ En este ejemplo tengo tres carpetas/bancos (150, 151, 152) con tres archivos cad
   
 <img src="imgs/31.png" width="600">  
    
-5. Add more files if needed separated by commas / Añade más archivos, si es necesario, separados por comas.  
-6. Press commit at the end of the page / Envía tu commit al final de la páguina.  
++ Add more files if needed separated by commas / Añade más archivos, si es necesario, separados por comas.  
++ Press commit at the end of the page / Envía tu commit al final de la páguina.  
   
 <img src="imgs/32.png" width="600"><img src="imgs/33.png" width="300">  
    
@@ -38,52 +38,52 @@ Puedes ver tu archivo publicado ahora. En este ejemplo, terminé de añadir los 
   
 <img src="imgs/34.png" width="600">  
    
-7. Go to the folder where you have the new .json file and edit the README.md file there / Ve al folder donde tienes el nuevo archivo .json y edita el archivo README.md.  
-8. Add a link to the .json file by following this sintax: `[text](url or location-on-GitHub)`, Commit changes / Añade un link al archivo .json siguiendo la siguiente sintaxis: `[texto](url o locación-en-GitHub)`, Commit tus cambios.   
++ Go to the folder where you have the new .json file and edit the README.md file there / Ve al folder donde tienes el nuevo archivo .json y edita el archivo README.md.  
++ Add a link to the .json file by following this sintax: `[text](url or location-on-GitHub)`, Commit changes / Añade un link al archivo .json siguiendo la siguiente sintaxis: `[texto](url o locación-en-GitHub)`, Commit tus cambios.   
   
 <img src="imgs/35.png" width="600">
 <img src="imgs/36.png" width="600">
    
-9. Confirm this links works / Confirma que el link funcione.  
++ Confirm this links works / Confirma que el link funcione.  
   
 <img src="imgs/37.png" width="600">   
    
-10. If you have uploaded and created these files inside of a folder/sub-folder, go to the beginning of your repository / Si has agregado estos archivos en una carpeta/sub-carpeta, ve al inicio de tu repositorio.  
-11. Edit the README file there and add a link to your previous, Sound README file / Edita el archivo README de ahí y crea un link al archivo previos de README de sonido.  
++ If you have uploaded and created these files inside of a folder/sub-folder, go to the beginning of your repository / Si has agregado estos archivos en una carpeta/sub-carpeta, ve al inicio de tu repositorio.  
++ Edit the README file there and add a link to your previous, Sound README file / Edita el archivo README de ahí y crea un link al archivo previos de README de sonido.  
 These steps are not necesarry if you have all your files in the main repo / Estos pasos no son necesarios si tienes todos tus archivos en tu repositorio principal.  
   
 <img src="imgs/38.png" width="600">
 <img src="imgs/39.png" width="600">
    
-12. Go to "Settings", then "Pages", click on the site's url / Ve a "Configuraciones", luego a "Páguinas", da click en la url del sitio.  
++ Go to "Settings", then "Pages", click on the site's url / Ve a "Configuraciones", luego a "Páguinas", da click en la url del sitio.  
   
 <img src="imgs/40.png" width="600">
 
-13. Click until you get to your .json file / Dale click hasta entrar a tu archivo de .json.  
++ Click until you get to your .json file / Dale click hasta entrar a tu archivo de .json.  
 In this example, I have to go to Sound Samples, then Samples / En este ejemplo, tengo que ir a Samples de Sonido, luego Samples.  
   
 <img src="imgs/41.png" width="600">
 <img src="imgs/42.png" width="600">
   
 Something like this should appear / Algo como esto debe aparecer.  
-14. Copy the URL / Copia la URL.  
++ Copy the URL / Copia la URL.  
   
 <img src="imgs/43.png" width="600"> 
    
-15. Go to one of your README files (In this case, I will modify the README on Sound) / Ve a uno de tus archivos README (En este caso modificaré mi archivo README en Sound).  
++ Go to one of your README files (In this case, I will modify the README on Sound) / Ve a uno de tus archivos README (En este caso modificaré mi archivo README en Sound).  
   
 <img src="imgs/44.png" width="600"> 
   
-16. Add the following: `!reslist "paste-url"` / Agrera la siguiente línea: `!reslist "copia-la-url"`.  
++ Add the following: `!reslist "paste-url"` / Agrera la siguiente línea: `!reslist "copia-la-url"`.  
 In this case, I also added some other information about the samples.  
 En este caso también añadí algo de información de los samples.  
   
 <img src="imgs/45.png" width="600"> 
 <img src="imgs/46.png" width="600"> 
   
-17. Go to: / Ve a: [Estuary](https://estuary.mcmaster.ca/))
-18. Go into Solo Mode or enter an ensamble / Ve a Modo Solo o entra a un ensamble.  
-19. In the terminal, send your `!reslist "pasted-url"`/ En la terminal, envía tu `!reslist "url-copiada"`.  
++ Go to: / Ve a: [Estuary](https://estuary.mcmaster.ca/))
++ Go into Solo Mode or enter an ensamble / Ve a Modo Solo o entra a un ensamble.  
++ In the terminal, send your `!reslist "pasted-url"`/ En la terminal, envía tu `!reslist "url-copiada"`.  
   
 <img src="imgs/47.png" width="600">  
   
