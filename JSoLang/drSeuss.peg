@@ -9,25 +9,13 @@ main = x:allRules* { return "##miniTidal\n" + x.join("") }
 allRules = I / like / green / eggs / ham / and / donT / anyCharacter
 anyCharacter = .
 
-// transforming pattern's time:
-// transformando el tiempo del patrón:
-
 I = "I"i { return "slow 3.2 $" }
-
-// playing audio-samples:
-// tocando samples de audio:
 
 like = "like"i { return "s" }
 green = "green"i { return "alphabet:4 alphabet:6 alphabet:6 alphabet:18" }
 
-// transforming audio:
-// transformando audios:
-
 eggs = "eggs"i { return " # gain" }
 ham = "ham"i { return "# up" }
-
-// empty statement:
-// mandar un estado vacío:
 
 and = "and"i { return "" }
 donT = "donT"i { return "" }
