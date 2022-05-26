@@ -20,7 +20,7 @@ had = "had"i { return "$" }
 humpty = "humpty"i { return "setSize 0.5" }
 dumpty = "dumpty" { return "$ setOpacity (range 0 1 $ sin 0.5)" }
 Dumpty = "Dumpty" { return "$ setOpacity (range 1 0 $ sin 0.5)" }
-first = "first" { return "setPosY (-0.2) $" }
-then = "then" { return "setPosY (-0.2) $" }
+first = "first"i { return "setPosY (-0.2) $" }
+then = "then"i { return "setPosY (-0.2) $" }
 
 on = "on"i { return "" }
