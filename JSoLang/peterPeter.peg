@@ -1,1 +1,20 @@
+##JSoLang peterPeter
+
+// Please follow the tutorial on JSoLangs to know how to use this on Estuary
+
+// Example 3: Text Replacement in Hydra
+// Ejemplo 3: Reemplazo de Texto en Hydra
+
+main = x:allRules* { return "##hydra\n" + x.join("") }
+allRules = Peter / peter / punkin / eater / is / Punkin / eating? / anyCharacter
+anyCharacter = .
+
+Peter = "Peter" { return "s0" }
+peter = "peter" { return "initVideo" }
+punkin = "punkin" { return "\"https://upload.wikimedia.org/wikipedia/commons/e/ed/Pumpkin_Carving.webm"" }
+eater = "eater" { return ")" }
+
+is = "is" { return "src" }
+Punkin = "Punkin" { return "modulate(o0)" }
+eating? = "eating?" { return "out()" }
 
