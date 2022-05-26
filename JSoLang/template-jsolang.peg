@@ -1,0 +1,12 @@
+// Basic Template 
+  
+##JSoLang name-of-jsolang
+
+main = x:allRules* { return "##language-parsing\n" + x.join("") }
+allRules = words-to-add-divided-by-slash / anyCharacter
+anyCharacter = .
+
+// Simple Text Replacement example:
+
+word = "word"i { return "a-function or a-conjunction-of-functions" }
+// add as many as you want
