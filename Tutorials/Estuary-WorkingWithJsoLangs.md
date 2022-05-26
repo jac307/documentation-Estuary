@@ -27,8 +27,8 @@ For this project, I have this [template](../JSoLang/template-jsolang.peg) / Para
   + `a-function or a-conjunction-of-functions` = Write the function(s) you want to translate / Escribe la(s) funcion(es) que quieras traducir.  
   + `word` = Write the word you want to use to replace the above / Escribe la palabra que quieres para reemplazar lo anterior.  
   + `"word"i` = Write the word again inside quotation marks / Escribe de nuevo la palabra pero entre comillas.  
-       + `i` = case sensitive / sensible al cambio de may/min.
-       + erase the i so it is not case sensitive / borra el i para que no sea sensible al cambio de may/min.  
+       + `i` = not case sensitive / no distingue mayúsculas y minúsculas.  
+       + erase the i so it is case sensitive / borra el i para que distinga entre mayúsculas y minúsculas.  
   + `words-to-add-divided-by-slash` = Write all the words you used divided by "/" / Escribe todas las palabras que usaste divididas por "/".  
 
 <img src="imgs/79.png">  
@@ -58,13 +58,13 @@ que se traduce en MiniTidal como:
   
 I have seven statements, translating: / Tengo siete declaraciones, traduciendo:    
   
-+ `like = "like"i { return "s" }` = single funcion: / única función.    
++ `like = "like"i { return "s" }` = single function / única función.    
   
-+ `eggs = "eggs"i { return " # gain" }` and `ham = "ham"i { return "# up" }` = symbol # + function / símbolo # + función.  
++ `eggs = "eggs"i { return " # gain" }` and `ham = "ham"i { return "# up" }` = operator # + function / operador # + función.  
   
-+ `green = "green"i { return "alphabet:4 alphabet:6 alphabet:6 alphabet:18" }` = a sound patter / un patrón de sonidos
++ `green = "green"i { return "alphabet:4 alphabet:6 alphabet:6 alphabet:18" }` = a sound pattern / un patrón de sonidos
   
-+ `I = "I"i { return "slow 3.2 $" }` = function + parameter + symbol $ / función + parámetro + símbolo.  
++ `I = "I"i { return "slow 3.2 $" }` = function + parameter + operator $ / función + parámetro + operador $.  
   
 + `and = "and"i { return "" }` and `donT = "donT"i { return "" }` = empty statement / declaración vacía.  
   
@@ -92,15 +92,23 @@ que se traduce en CineCer0 como:
   
 I have seven statements, translating: / Tengo siete declaraciones, traduciendo:    
   
-+ `like = "like"i { return "s" }` = single funcion: / única función.    
++ `a = "a"i { return "image" }` = single funcion: / única función.    
+
++ `sat = "sat"i { return "$" }` = operator $ / operador $.    
+
++ `humpty = "humpty"i { return "setSize 0.5" }` = function + parameter / función + parámetro.  
   
-+ `eggs = "eggs"i { return " # gain" }` and `ham = "ham"i { return "# up" }` = symbol # + function / símbolo # + función.  
++ `first = "first"i { return "setPosY (-0.2) $" }` = function + parameter + symbol $ / función + parámetro + símbolo. 
+The same translation applies to `then = "then" { return "setPosY (-0.2) $" }`, so I have two options.  
+La misma traducción se aplica a `then = "then" { return "setPosY (-0.2) $" }`, y así tener dos opciones.  
   
-+ `green = "green"i { return "alphabet:4 alphabet:6 alphabet:6 alphabet:18" }` = a sound patter / un patrón de sonidos
++ `dumpty = "dumpty" { return "$ setOpacity (range 0 1 $ sin 0.5)" }` and `Dumpty = "Dumpty" { return "$ setOpacity (range 1 0 $ sin 0.5)" }` = symbol $ + function + dynamic-parameter / símbolo $ + función + parámetro-dinámico.  
+In this case, I erased `i` so it is case sensitive and I can write `dumpty` or `Dumpty` and have two different functions.  
+En este caso borré `i` y así distinga entre mayúsculas y minúsculas y pueda escribir `dumpty` o `Dumpty` y tenga dos funciones diferentes.   
   
-+ `I = "I"i { return "slow 3.2 $" }` = function + parameter + symbol $ / función + parámetro + símbolo.  
++ `on = "on"i { return "" }` = empty statement / declaración vacía.  
   
-+ `and = "and"i { return "" }` and `donT = "donT"i { return "" }` = empty statement / declaración vacía.  
++ `wall = "wall"i { return "\"url1\"" }` and `wall = "wall"i { return "\"url2\"" }` = url inside quotation marks / url entre comillas.  
   
 My new sintax must respect the rules of the pre-existing live coding language.  
 La nueva sintaxis debe respetar las reglas del lenguajde de live coding pre-existente.  
