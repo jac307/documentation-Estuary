@@ -49,12 +49,12 @@ ________________________________________________________________________________
 [This](../JSoLang/drSeuss.peg) is the JSoLang I wrote with the name `drSeuss`, where you can run the following sintax:    
   `I donT like "green" eggs 0.9 and ham 1.0`.   
 which translate in MiniTidal as:  
-  `slow 3.2 $ s "alphabet:4 alphabet:6 alphabet:6 alphabet:18 # gain 0.9 # up 1.0"`  
+  `slow 3.2 $ s "alphabet:4 alphabet:6 alphabet:6 alphabet:18" # gain 0.9 # up 1.0`  
   
 [Este](../JSoLang/drSeuss.peg) que escribí con el nombre de `drSeuss`, donde puedes correr la siguiente sintaxis:    
   `I donT like "green" eggs 0.9 and ham 1.0`.   
 que se traduce en MiniTidal como:  
-  `slow 3.2 $ s "alphabet:4 alphabet:6 alphabet:6 alphabet:18 # gain 0.9 # up 1.0"`  
+  `slow 3.2 $ s "alphabet:4 alphabet:6 alphabet:6 alphabet:18" # gain 0.9 # up 1.0`  
   
 I have seven statements, translating: / Tengo siete declaraciones, traduciendo:    
   
@@ -77,6 +77,33 @@ ________________________________________________________________________________
 _________________________________________________________________________________________
   
 ### Example 2: Text Replacement with CineCer0 / Ejemplo 2: Reemplazo de Text con CineCer0
+  
+[This](../JSoLang/humptyDumpty.peg) is the JSoLang I wrote with the name `humptyDumpty`, where you can run the following sintax:    
+  `first Humpty dumpty sat on a wall; then Humpty Dumpty had a fall;`.   
+which translate in CineCer0 as:  
+  `setPosY (-0.2) $ setSize 0.5 $ setOpacity (range 0 1 $ sin 0.5) $ image "specific-url-01";` 
+  `setPosY (-0.2) $ setSize 0.5 $ setOpacity (range 1 0 $ sin 0.5) $ imagespecific-url-02;"`  
+  
+[Este](../JSoLang/drSeuss.peg) que escribí con el nombre de `humptyDumpty`, donde puedes correr la siguiente sintaxis:    
+  `first Humpty dumpty sat on a wall; then Humpty Dumpty had a fall`.   
+que se traduce en CineCer0 como:  
+  `setPosY (-0.2) $ setSize 0.5 $ setOpacity (range 0 1 $ sin 0.5) $ image "specific-url-01";` 
+  `setPosY (-0.2) $ setSize 0.5 $ setOpacity (range 1 0 $ sin 0.5) $ imagespecific-url-02;"`  
+  
+I have seven statements, translating: / Tengo siete declaraciones, traduciendo:    
+  
++ `like = "like"i { return "s" }` = single funcion: / única función.    
+  
++ `eggs = "eggs"i { return " # gain" }` and `ham = "ham"i { return "# up" }` = symbol # + function / símbolo # + función.  
+  
++ `green = "green"i { return "alphabet:4 alphabet:6 alphabet:6 alphabet:18" }` = a sound patter / un patrón de sonidos
+  
++ `I = "I"i { return "slow 3.2 $" }` = function + parameter + symbol $ / función + parámetro + símbolo.  
+  
++ `and = "and"i { return "" }` and `donT = "donT"i { return "" }` = empty statement / declaración vacía.  
+  
+My new sintax must respect the rules of the pre-existing live coding language.  
+La nueva sintaxis debe respetar las reglas del lenguajde de live coding pre-existente.  
   
 <img src="imgs/81.png" width="600"><img src="imgs/82.png" width="600">  
   
