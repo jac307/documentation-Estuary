@@ -32,7 +32,13 @@ For this project, I have this [template](../JSoLang/template-jsolang.peg) / Para
   + `words-to-add-divided-by-slash` = Write all the words you used divided by "/" / Escribe todas las palabras que usaste divididas por "/".  
 
 <img src="imgs/79.png">  
-
+  
++ Go to: / Ve a: <a href="https://estuary.mcmaster.ca/" target="_blank">Estuary</a>
++ Copy/Paste your JSoLang in one editor-box. Evaluate and check for sintax errors / Copia/Pega tu JSoLang en un editor de texto. Evalúa y checa por errores de sintaxis.  
++ In a different editor-box write: `##name-of-jsolang` / En un editor de texto diferente, escribe: `##name-of-jsolang`.    
++ You can now use this second box to write with your new sintax / Ahora puedes usar este segundo editor para escribir con tu nueva sintaxis.    
+  
+<img src="imgs/80.png">   
 
 
 
