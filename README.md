@@ -24,7 +24,7 @@ En esta documentación, encontrarás las siguientes acciones para usar en <a hre
 + [GIFs](GIFs/README.md)  
   
   
-GitHub repository of this project: [https://github.com/jac307/documentation-Estuary](https://github.com/jac307/documentation-Estuary)
+GitHub repository of this project: <a href="https://github.com/jac307/documentation-Estuary" target="_blank">https://github.com/jac307/documentation-Estuary</a>:
   
 ________________________________________________________________________
   
