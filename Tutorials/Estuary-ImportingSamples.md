@@ -1,3 +1,9 @@
+  
+[Tutorials](../Tutorials/README.md) | [Main](../README.md)    
+  
+-------------------------------------------------------------------------------  
+  
+  
 ## Temporally importing samples in Estuary / Importando samples temporalmente en Estuary
 
 If you have not made your repo a GitHub Page, please follow [GitHub: Setup](GitHub-setup.md) tutorial first.    
