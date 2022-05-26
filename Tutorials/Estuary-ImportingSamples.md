@@ -90,7 +90,7 @@ En este caso también añadí algo de información de los samples.
 <img src="imgs/45.png" width="600"> 
 <img src="imgs/46.png" width="600"> 
   
-+ Go to: / Ve a: [Estuary](https://estuary.mcmaster.ca/))
++ Go to: / Ve a: <a href="https://estuary.mcmaster.ca/" target="_blank">Estuary</a>
 + Go into Solo Mode or enter an ensamble / Ve a Modo Solo o entra a un ensamble.  
 + In the terminal, send your `!reslist "pasted-url"`/ En la terminal, envía tu `!reslist "url-copiada"`.  
   
