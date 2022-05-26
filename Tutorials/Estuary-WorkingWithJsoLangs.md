@@ -38,9 +38,24 @@ For this project, I have this [template](../JSoLang/template-jsolang.peg) / Para
 + In a different editor-box write: `##name-of-jsolang` / En un editor de texto diferente, escribe: `##name-of-jsolang`.    
 + You can now use this second box to write with your new sintax / Ahora puedes usar este segundo editor para escribir con tu nueva sintaxis.    
   
-<img src="imgs/80.png">   
-
-
-
+<img src="imgs/80.png">    
   
-
+  
+_________________________________________________________________________________________
+  
+### Example 1: Text Replacement with MiniTidal / Ejemplo 1: Reemplazo de Text con MiniTidal
+  
+<img src="imgs/83.png" width="600">  
+  
+_________________________________________________________________________________________
+  
+### Example 2: Text Replacement with CineCer0 / Ejemplo 2: Reemplazo de Text con CineCer0
+  
+<img src="imgs/81.png" width="600"><img src="imgs/82.png" width="600">  
+  
+_________________________________________________________________________________________
+  
+### Example 3: Text Replacement with Hydra / Ejemplo 3: Reemplazo de Text con Hydra
+  
+<img src="imgs/84.png" width="600"><img src="imgs/85.png" width="600">  
+  
