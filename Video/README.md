@@ -9,6 +9,7 @@ Links to use in CineCer0 / Links para usar en CineCer0:
 
 Links to use in Hydra / Links para usar en Hydra: 
 
-[Video](00.mov)
-
-[Video2](videos.html)
+[Video00](00.mov)
+[Video01](01.mov)
+[Video02](02.mov)
+[Video03](03.mov)
