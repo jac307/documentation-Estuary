@@ -44,6 +44,28 @@ For this project, I have this [template](../JSoLang/template-jsolang.peg) / Para
 _________________________________________________________________________________________
   
 ### Example 1: Text Replacement with MiniTidal / Ejemplo 1: Reemplazo de Text con MiniTidal
+
+[This](../JSoLang/drSeuss.peg) is the JSoLang I wrote with the name `drSeuss`, where you can run the following sintax:    
+  `I donT like "green" eggs 0.9 and ham 1.0`.   
+which translate in MiniTidal as:  
+  `slow 3.2 $ s "alphabet:4 alphabet:6 alphabet:6 alphabet:18 # gain 0.9 # up 1.0"`  
+  
+[Este](../JSoLang/drSeuss.peg) que escribí con el nombre de `drSeuss`, donde puedes correr la siguiente sintaxis:    
+  `I donT like "green" eggs 0.9 and ham 1.0`.   
+que se traduce en MiniTidal como:  
+  `slow 3.2 $ s "alphabet:4 alphabet:6 alphabet:6 alphabet:18 # gain 0.9 # up 1.0"`  
+  
+I have seven translations: / Tengo siete traducciones:    
+  
++ `like = "like"i { return "s" }` =
+  
++ `eggs = "eggs"i { return " # gain" }` and `ham = "ham"i { return "# up" }` =
+  
++ `green = "green"i { return "alphabet:4 alphabet:6 alphabet:6 alphabet:18" }` =
+  
++ `I = "I"i { return "slow 3.2 $" }` =
+  
++ `and = "and"i { return "" }` and `donT = "donT"i { return "" }` =
   
 <img src="imgs/83.png" width="600">  
   
