@@ -9,3 +9,6 @@ This is a documentation for everyone that wants to use their own media (video, i
   
 + [Videos](Video/README.md)  
   
++ [Images / Imágenes](Image/README.md)  
+  
++ [GIFs](GIFs/README.md)  
