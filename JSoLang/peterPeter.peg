@@ -6,15 +6,14 @@
 // Ejemplo 3: Reemplazo de Texto en Hydra
 
 main = x:allRules* { return "##hydra\n" + x.join("") }
-allRules = Peter / peter / punkin / eater / is / Punkin / eating? / anyCharacter
+allRules = Peter / peter / punkin / Eater / is / Punkin / eating / anyCharacter
 anyCharacter = .
 
 Peter = "Peter" { return "s0" }
 peter = "peter" { return "initVideo" }
-punkin = "punkin" { return "\"https://upload.wikimedia.org/wikipedia/commons/e/ed/Pumpkin_Carving.webm"" }
-eater = "eater" { return ")" }
+punkin = "punkin" { return "\"https://upload.wikimedia.org/wikipedia/commons/e/ed/Pumpkin_Carving.webm\"" }
+Eater = "Eater" { return ")" }
 
 is = "is" { return "src" }
 Punkin = "Punkin" { return "modulate(o0)" }
-eating? = "eating?" { return "out()" }
-
+eating = "eating" { return "out()" }
