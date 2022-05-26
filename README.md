@@ -22,3 +22,8 @@ En la siguiente documentación encontrarás algunas aproximaciones usando [Estua
 + [Images / Imágenes](Image/README.md)  
   
 + [GIFs](GIFs/README.md)  
+  
+  
+________________________________________________________________________
+  
+Credit: Jesiica Rodríguez
