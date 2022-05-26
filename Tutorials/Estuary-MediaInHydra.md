@@ -29,5 +29,13 @@ En este ejemplo he creato links directos en mi README principal, así puedo acce
 <img src="imgs/70.png" width="600"><img src="imgs/72.png" width="600"><img src="imgs/71.png" width="600">  
   
 + As a good practice, you can copy the url links on your README file, so they're always accesible  / Como una buena práctica, pega los links/url en tu archivo README, así tendrás esa información accesible.  
+In this example, I copied/pasted the links in both, the Image and Video README files.  
+En este ejemplo, copié/pegué los links en los archivos README de Imagen y de Video.  
   
-<img src="imgs/70.png" width="600"><img src="imgs/71.png" width="600">  
+<img src="imgs/73.png" width="600"><img src="imgs/74.png" width="600">  
+  
++ En Estuary, you can use these links on Hydra / En Estuary, ya puedes usar estos links en Hydra.  
+  
+<img src="imgs/75.png" width="600">  
+<img src="imgs/76.png" width="600">  
+  
