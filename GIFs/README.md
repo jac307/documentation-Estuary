@@ -1,3 +1,7 @@
+[Main](../README.md) 
+
+-------------------------------------------------------------------------------  
+  
 ## GIFS
 
 Links to use in CineCer0 / Links para usar en CineCer0:  
@@ -9,7 +13,4 @@ Links to use in CineCer0 / Links para usar en CineCer0:
   
 [00](00.gif)
   
-  
--------------------------------------------------------------------------------  
-  
-[Main](../README.md)   
+
