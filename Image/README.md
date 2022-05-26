@@ -1,8 +1,8 @@
-[Main](../README.md) 
+[Home](../README.md) 
 
 -------------------------------------------------------------------------------  
   
-## Image
+## Image / Imagen
 
 Links to use in CineCer0 / Links para usar en CineCer0:  
 
