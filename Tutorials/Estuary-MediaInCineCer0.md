@@ -1,4 +1,4 @@
-## Using/Playing Media on CineCer0 / Usar/Reproducir Media en CineCer0
+## Using/Playing Media (video,image,gif) on CineCer0 / Usar/Reproducir Media (video,imagen,gif) en CineCer0
 
 + Go to the repo/folder where you have your videos or images / Ve al repo o folder donde tienes tus videos o imágenes.    
    
