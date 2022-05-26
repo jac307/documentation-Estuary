@@ -1,3 +1,9 @@
+  
+[Tutorials](../Tutorials/README.md) | [Main](../README.md)    
+  
+-------------------------------------------------------------------------------  
+  
+  
 ## Using/Playing Media (video,image,gif) on CineCer0 / Usar/Reproducir Media (video,imagen,gif) en CineCer0
 
 + Go to the repo/folder where you have your videos or images / Ve al repo o folder donde tienes tus videos o imágenes.    
