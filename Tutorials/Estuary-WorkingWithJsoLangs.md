@@ -3,7 +3,13 @@
   
 -------------------------------------------------------------------------------  
   
-## JSoLangs: Simple Text Replacement / Reemplazo de Texto Simple
+## JSoLangs: Simple Text Replacement / Reemplazo de Texto Simple 
+
+[Example / Ejemplo 1](## Example 1)
+[Example / Ejemplo 2](## Example 2)
+[Example / Ejemplo 3](## Example 3)
+
+## Template
   
 JSoLangs is an application in <a href="https://estuary.mcmaster.ca/" target="_blank">Estuary</a> to parse available live coding language to create new ones.  
 Los JSoLangs es una aplicación en <a href="https://estuary.mcmaster.ca/" target="_blank">Estuary</a> que permite parsear lenguajes de live coding disponibles para crear nuevos.  
@@ -44,7 +50,8 @@ For this project, I have this [template](../JSoLang/template-jsolang.peg) / Para
 _________________________________________________________________________________________
 _________________________________________________________________________________________
   
-### Example 1: Text Replacement with MiniTidal / Ejemplo 1: Reemplazo de Text con MiniTidal
+## Example 1
+### Text Replacement with MiniTidal / Ejemplo 1: Reemplazo de Text con MiniTidal
 
 [This](../JSoLang/drSeuss.peg) is the JSoLang I wrote with the name `drSeuss`, where you can run the following sintax:    
   `I donT like "green" eggs 0.9 and ham 1.0`.   
@@ -76,7 +83,8 @@ La nueva sintaxis debe respetar las reglas del lenguajde de live coding pre-exis
 _________________________________________________________________________________________
 _________________________________________________________________________________________
   
-### Example 2: Text Replacement with CineCer0 / Ejemplo 2: Reemplazo de Text con CineCer0
+## Example 2
+### Text Replacement with CineCer0 / Ejemplo 2: Reemplazo de Text con CineCer0
   
 [This](../JSoLang/humptyDumpty.peg) is the JSoLang I wrote with the name `humptyDumpty`, where you can run the following sintax:    
   `first Humpty dumpty sat on a wall; then Humpty Dumpty had a fall;`.   
@@ -118,7 +126,8 @@ La nueva sintaxis debe respetar las reglas del lenguajde de live coding pre-exis
 _________________________________________________________________________________________
 _________________________________________________________________________________________
   
-### Example 3: Text Replacement with Hydra / Ejemplo 3: Reemplazo de Text con Hydra
+## Example 3
+### Text Replacement with Hydra / Ejemplo 3: Reemplazo de Text con Hydra
   
 [This](../JSoLang/peterPeter.peg) is the JSoLang I wrote with the name `peterPeter`, where you can run the following sintax:    
   `I donT like "green" eggs 0.9 and ham 1.0`.   
