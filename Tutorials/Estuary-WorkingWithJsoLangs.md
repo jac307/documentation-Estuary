@@ -22,7 +22,16 @@ Los JSoLangs pueden escribirse directamente en Estuary pero siempre es mejor gua
 + Write and save your JSoLang / Escribe y guarda tu JSoLang.  
 For this project, I have this [template](../JSoLang/template-jsolang.peg) / Para este proyecto tengo este template [template](../JSoLang/template-jsolang.peg) 
 
+  + `name-of-jsolang` = Name your JsoLang / Nombra tu JsoLang.  
+  + `language-parsing` = Write the name of one of the lc languages in Estuary / Escribe el nombre de alguno de los lenguajes de lc que hay en Estuary.   
+  + `a-function or a-conjunction-of-functions` = Write the function(s) you want to translate / Escribe la(s) funcion(es) que quieras traducir.  
+  + `word` = Write the word you want to use to replace the above / Escribe la palabra que quieres para reemplazar lo anterior.  
+  + `"word"i` = Write the word again inside quotation marks / Escribe de nuevo la palabra pero entre comillas.  
+       + `i` = case sensitive / sensible al cambio de may/min.
+       + erase the i so it is not case sensitive / borra el i para que no sea sensible al cambio de may/min.  
+  + `words-to-add-divided-by-slash` = Write all the words you used divided by "/" / Escribe todas las palabras que usaste divididas por "/".  
 
+<img src="imgs/79.png">  
 
 
 
