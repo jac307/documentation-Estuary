@@ -9,4 +9,4 @@ Links to use in CineCer0 / Links para usar en CineCer0:
 
 Links to use in Hydra / Links para usar en Hydra: 
 
-![Image00](00.jpg)
+[Image00](00.png)
