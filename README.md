@@ -28,4 +28,4 @@ GitHub repository of this project: <a href="https://github.com/jac307/documentat
   
 ________________________________________________________________________
   
-Credit: Jesiica Rodríguez
+Credit: Jessica A. Rodríguez
