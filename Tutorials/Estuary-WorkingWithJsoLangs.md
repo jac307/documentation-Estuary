@@ -84,13 +84,13 @@ which translate in CineCer0 as:
   `setPosY (-0.2) $ setSize 0.5 $ setOpacity (range 0 1 $ sin 0.5) $ image "specific-url-01";` 
   `setPosY (-0.2) $ setSize 0.5 $ setOpacity (range 1 0 $ sin 0.5) $ imagespecific-url-02;"`  
   
-[Este](../JSoLang/drSeuss.peg) que escribí con el nombre de `humptyDumpty`, donde puedes correr la siguiente sintaxis:    
+[Este](../JSoLang/humptyDumpty.peg) que escribí con el nombre de `humptyDumpty`, donde puedes correr la siguiente sintaxis:    
   `first Humpty dumpty sat on a wall; then Humpty Dumpty had a fall`.   
 que se traduce en CineCer0 como:  
   `setPosY (-0.2) $ setSize 0.5 $ setOpacity (range 0 1 $ sin 0.5) $ image "specific-url-01";` 
   `setPosY (-0.2) $ setSize 0.5 $ setOpacity (range 1 0 $ sin 0.5) $ imagespecific-url-02;"`  
   
-I have seven statements, translating: / Tengo siete declaraciones, traduciendo:    
+I have ten statements, translating: / Tengo ten declaraciones, traduciendo:    
   
 + `a = "a"i { return "image" }` = single funcion: / única función.    
 
@@ -99,8 +99,8 @@ I have seven statements, translating: / Tengo siete declaraciones, traduciendo:
 + `humpty = "humpty"i { return "setSize 0.5" }` = function + parameter / función + parámetro.  
   
 + `first = "first"i { return "setPosY (-0.2) $" }` = function + parameter + symbol $ / función + parámetro + símbolo. 
-The same translation applies to `then = "then" { return "setPosY (-0.2) $" }`, so I have two options.  
-La misma traducción se aplica a `then = "then" { return "setPosY (-0.2) $" }`, y así tener dos opciones.  
+The same translation applies to `then = "then"i { return "setPosY (-0.2) $" }`, so I have two options.  
+La misma traducción se aplica a `then = "then"i { return "setPosY (-0.2) $" }`, y así tener dos opciones.  
   
 + `dumpty = "dumpty" { return "$ setOpacity (range 0 1 $ sin 0.5)" }` and `Dumpty = "Dumpty" { return "$ setOpacity (range 1 0 $ sin 0.5)" }` = symbol $ + function + dynamic-parameter / símbolo $ + función + parámetro-dinámico.  
 In this case, I erased `i` so it is case sensitive and I can write `dumpty` or `Dumpty` and have two different functions.  
@@ -119,6 +119,36 @@ ________________________________________________________________________________
 _________________________________________________________________________________________
   
 ### Example 3: Text Replacement with Hydra / Ejemplo 3: Reemplazo de Text con Hydra
+  
+[This](../JSoLang/peterPeter.peg) is the JSoLang I wrote with the name `peterPeter`, where you can run the following sintax:    
+  `I donT like "green" eggs 0.9 and ham 1.0`.   
+which translate in Hydra as:  
+  `slow 3.2 $ s "alphabet:4 alphabet:6 alphabet:6 alphabet:18" # gain 0.9 # up 1.0`  
+  
+[Este](../JSoLang/peterPeter.peg) que escribí con el nombre de `peterPeter`, donde puedes correr la siguiente sintaxis:    
+  `Peter.peter(punkinEater;`  
+  `is(Peter).Punkin.eating`   
+que se traduce en Hydra como:  
+  `s0.initVideo("specific-url");`  
+  `src(s0).modulate(o0).out()`   
+  
+I have seven statements, translating: / Tengo siete declaraciones, traduciendo:    
+
+In this case, I erased all `i` so it is case sensitive.  
+En este caso borré todas las `i` y así distinga entre mayúsculas y minúsculas.   
+  
++ `Peter = "Peter" { return "s0" }`, `peter = "peter" { return "initVideo" }`, and `is = "is" { return "src" }` = single function / única función.  
+  
++ `punkin = "punkin" { return "\"url\"" }` = url inside quotation marks / url entre comillas.  
+  
++ `Eater = "Eater" { return ")" }` = symbol ) / símbolo ).    
+  
++ `eating = "eating" { return "out()" }` = function + symbols () / function + símbolos ().    
+
++ `Punkin = "Punkin" { return "modulate(o0)" }` = function + symbols (+ parameter +) / function + símbolos (+ parameter +).    
+  
+My new sintax must respect the rules of the pre-existing live coding language.  
+La nueva sintaxis debe respetar las reglas del lenguajde de live coding pre-existente. 
   
 <img src="imgs/84.png" width="600"><img src="imgs/85.png" width="600">  
   
