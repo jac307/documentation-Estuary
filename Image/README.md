@@ -6,3 +6,7 @@ Links to use in CineCer0 / Links para usar en CineCer0:
 + https://github.com/jac307/documentation-Estuary/blob/main/Image/01.png?raw=true
 + https://github.com/jac307/documentation-Estuary/blob/main/Image/02.png?raw=true
 + https://github.com/jac307/documentation-Estuary/blob/main/Image/03.png?raw=true
+
+Links to use in Hydra / Links para usar en Hydra: 
+
+![Image00](00.jpg)
