@@ -1,5 +1,8 @@
 ## Temporally importing samples in Estuary / Importando samples temporalmente en Estuary
 
+If you have not made your repo a GitHub Page, please follow [GitHub: Setup](GitHub-setup.md) tutorial first.    
+Si no has configurado tu repo como una GitHub Page ve al siguiente tutorial primero: [GitHub: Setup](GitHub-setup.md). 
+  
 + On your repository, go to the section you have uploaded your sound files / Es tu repositorio, ve a la sección donde has subido tus archivos de sonido.  
 + Create a new file / Crea una nuevo archivo.  
   
@@ -44,7 +47,7 @@ Puedes ver tu archivo publicado ahora. En este ejemplo, terminé de añadir los 
 <img src="imgs/35.png" width="600">
 <img src="imgs/36.png" width="600">
    
-+ Confirm this links works / Confirma que el link funcione.  
++ Confirm the link works / Confirma que el link funcione.  
   
 <img src="imgs/37.png" width="600">   
    
@@ -55,9 +58,9 @@ These steps are not necesarry if you have all your files in the main repo / Esto
 <img src="imgs/38.png" width="600">
 <img src="imgs/39.png" width="600">
    
-+ Go to "Settings", then "Pages", click on the site's url / Ve a "Configuraciones", luego a "Páguinas", da click en la url del sitio.  
++ Go to "Settings", then "Pages", click on the site's url / Ve a "Configuraciones", luego a "Páguinas", da click en la url del sitio.   
   
-<img src="imgs/40.png" width="600">
+<img src="imgs/40.png" width="600"> 
 
 + Click until you get to your .json file / Dale click hasta entrar a tu archivo de .json.  
 In this example, I have to go to Sound Samples, then Samples / En este ejemplo, tengo que ir a Samples de Sonido, luego Samples.  
