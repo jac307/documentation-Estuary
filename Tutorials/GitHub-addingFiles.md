@@ -1,3 +1,8 @@
+  
+[Tutorials](../Tutorials/README.md) | [Main](../README.md)    
+  
+-------------------------------------------------------------------------------  
+  
 ## Adding media files to GitHub / Añadiendo Archivos Multimedia a GitHub
 
 There are many ways to add/create files in GitHub. This tutorial will go through the steps to create folders for each Media type and uploading files in those folders.  
