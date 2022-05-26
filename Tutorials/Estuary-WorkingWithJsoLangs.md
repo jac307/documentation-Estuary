@@ -6,6 +6,8 @@
 ## JSoLangs: Simple Text Replacement / Reemplazo de Texto Simple 
 
 <a href="#ex1">Example / Ejemplo 1</a>  
+<a href="#ex2">Example / Ejemplo 2</a>  
+<a href="#ex3">Example / Ejemplo 3</a>  
 
 [Example / Ejemplo 1](#Example-1)  
 [Example / Ejemplo 2](#Example-2)  
@@ -52,7 +54,7 @@ For this project, I have this [template](../JSoLang/template-jsolang.peg) / Para
 _________________________________________________________________________________________
 _________________________________________________________________________________________
   
-<h3 id="ex1">Example 1</h3>
+<h3 id="ex1">Example 1</h3>  
 ### Text Replacement with MiniTidal / Ejemplo 1: Reemplazo de Text con MiniTidal
 
 [This](../JSoLang/drSeuss.peg) is the JSoLang I wrote with the name `drSeuss`, where you can run the following sintax:    
@@ -85,7 +87,7 @@ La nueva sintaxis debe respetar las reglas del lenguajde de live coding pre-exis
 _________________________________________________________________________________________
 _________________________________________________________________________________________
   
-## Example 2
+<h3 id="ex2">Example 2</h3>  
 ### Text Replacement with CineCer0 / Ejemplo 2: Reemplazo de Text con CineCer0
   
 [This](../JSoLang/humptyDumpty.peg) is the JSoLang I wrote with the name `humptyDumpty`, where you can run the following sintax:    
@@ -128,7 +130,7 @@ La nueva sintaxis debe respetar las reglas del lenguajde de live coding pre-exis
 _________________________________________________________________________________________
 _________________________________________________________________________________________
   
-## Example 3
+<h3 id="ex3">Example 3</h3>  
 ### Text Replacement with Hydra / Ejemplo 3: Reemplazo de Text con Hydra
   
 [This](../JSoLang/peterPeter.peg) is the JSoLang I wrote with the name `peterPeter`, where you can run the following sintax:    
