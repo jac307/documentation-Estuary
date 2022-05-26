@@ -1,0 +1,33 @@
+##JSoLang exquisito
+
+// Please follow the tutorial on JSoLangs to know how to use this on Estuary
+
+// Example 2: Text Replacement in CineCer0
+// Ejemplo 2: Reemplazo de Texto en CineCer0
+
+main = x:allRules* { return "##cineCer0\n" + x.join("") }
+allRules = on-a / a / wall / fall / sat / had / humpty / dumpty / anyCharacter
+anyCharacter = .
+
+// Adding videos or image
+// Añadiendo video o imagen
+
+on-a = "sat-on"i { return "video" }
+a = "had-a"i { return "image" }
+
+// video links
+
+wall = "wall"i { return "\"https://github.com/Andamio-in/ILINU-ILIDI/blob/main/Media/Video/jessica.mp4?raw=true\"" }
+fall= "fall"i { return "\"https://github.com/Andamio-in/ILINU-ILIDI/blob/main/Media/Video/marjha.mp4?raw=true\"" }
+
+// Joining functions
+// concatenando funciones
+
+sat = "sat"i { return "$" }
+had = "had"i { return "$" }
+
+// transforming functions
+// funciones de transformación
+
+humpty = "humpty"i { return "setSize" }
+dumpty = "dumpty"i { return "setOpacity (range 0 1 $ sin 0.5)" }
