@@ -1,6 +1,6 @@
-// Basic Template - Template Básico
-  
 ##JSoLang name-of-jsolang
+
+// Basic Template - Template Básico
 
 main = x:allRules* { return "##language-parsing\n" + x.join("") }
 allRules = words-to-add-divided-by-slash / anyCharacter
