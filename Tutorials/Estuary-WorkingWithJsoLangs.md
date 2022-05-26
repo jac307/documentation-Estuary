@@ -42,6 +42,7 @@ For this project, I have this [template](../JSoLang/template-jsolang.peg) / Para
   
   
 _________________________________________________________________________________________
+_________________________________________________________________________________________
   
 ### Example 1: Text Replacement with MiniTidal / Ejemplo 1: Reemplazo de Text con MiniTidal
 
@@ -55,26 +56,31 @@ which translate in MiniTidal as:
 que se traduce en MiniTidal como:  
   `slow 3.2 $ s "alphabet:4 alphabet:6 alphabet:6 alphabet:18 # gain 0.9 # up 1.0"`  
   
-I have seven translations: / Tengo siete traducciones:    
+I have seven statements, translating: / Tengo siete declaraciones, traduciendo:    
   
-+ `like = "like"i { return "s" }` =
++ `like = "like"i { return "s" }` = single funcion: / única función.    
   
-+ `eggs = "eggs"i { return " # gain" }` and `ham = "ham"i { return "# up" }` =
++ `eggs = "eggs"i { return " # gain" }` and `ham = "ham"i { return "# up" }` = symbol # + function / símbolo # + función.  
   
-+ `green = "green"i { return "alphabet:4 alphabet:6 alphabet:6 alphabet:18" }` =
++ `green = "green"i { return "alphabet:4 alphabet:6 alphabet:6 alphabet:18" }` = a sound patter / un patrón de sonidos
   
-+ `I = "I"i { return "slow 3.2 $" }` =
++ `I = "I"i { return "slow 3.2 $" }` = function + parameter + symbol $ / función + parámetro + símbolo.  
   
-+ `and = "and"i { return "" }` and `donT = "donT"i { return "" }` =
++ `and = "and"i { return "" }` and `donT = "donT"i { return "" }` = empty statement / declaración vacía.  
+  
+My new sintax must respect the rules of the pre-existing live coding language.  
+La nueva sintaxis debe respetar las reglas del lenguajde de live coding pre-existente.  
   
 <img src="imgs/83.png" width="600">  
   
+_________________________________________________________________________________________
 _________________________________________________________________________________________
   
 ### Example 2: Text Replacement with CineCer0 / Ejemplo 2: Reemplazo de Text con CineCer0
   
 <img src="imgs/81.png" width="600"><img src="imgs/82.png" width="600">  
   
+_________________________________________________________________________________________
 _________________________________________________________________________________________
   
 ### Example 3: Text Replacement with Hydra / Ejemplo 3: Reemplazo de Text con Hydra
