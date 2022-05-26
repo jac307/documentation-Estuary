@@ -5,9 +5,9 @@
   
 ## JSoLangs: Simple Text Replacement / Reemplazo de Texto Simple 
 
-[Example / Ejemplo 1](## Example 1)
-[Example / Ejemplo 2](## Example 2)
-[Example / Ejemplo 3](## Example 3)
+[Example / Ejemplo 1](#Example-1)  
+[Example / Ejemplo 2](#Example-2)  
+[Example / Ejemplo 3](#Example-3)  
 
 ## Template
   
