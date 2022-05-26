@@ -17,7 +17,6 @@ a = "a"i { return "image" }
 wall = "wall"i { return "\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Denslow%27s_Humpty_Dumpty_pg_11.jpg/640px-Denslow%27s_Humpty_Dumpty_pg_11.jpg\"" }
 fall = "fall"i { return "\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Denslow%27s_Humpty_Dumpty_pg_9.jpg/640px-Denslow%27s_Humpty_Dumpty_pg_9.jpg\"" }
 
-
 // Joining functions
 // concatenando funciones
 
