@@ -5,15 +5,14 @@
   
 ## JSoLangs: Simple Text Replacement / Reemplazo de Texto Simple 
 
+<a href="#temp">Template</a>  
 <a href="#ex1">Example / Ejemplo 1</a>  
 <a href="#ex2">Example / Ejemplo 2</a>  
-<a href="#ex3">Example / Ejemplo 3</a>  
+<a href="#ex3">Example / Ejemplo 3</a>    
 
-[Example / Ejemplo 1](#Example-1)  
-[Example / Ejemplo 2](#Example-2)  
-[Example / Ejemplo 3](#Example-3)  
+-------------------------------------------------------------------------------  
 
-## Template
+<h3 id="temp">Template</h3>  
   
 JSoLangs is an application in <a href="https://estuary.mcmaster.ca/" target="_blank">Estuary</a> to parse available live coding language to create new ones.  
 Los JSoLangs es una aplicación en <a href="https://estuary.mcmaster.ca/" target="_blank">Estuary</a> que permite parsear lenguajes de live coding disponibles para crear nuevos.  
@@ -58,14 +57,20 @@ ________________________________________________________________________________
 
 ### Text Replacement with MiniTidal / Ejemplo 1: Reemplazo de Text con MiniTidal
 
-[This](../JSoLang/drSeuss.peg) is the JSoLang I wrote with the name `drSeuss`, where you can run the following sintax:    
+[This](../JSoLang/drSeuss.peg) is the JSoLang I wrote with the name `drSeuss`, where you can run the following sintax:   
+  
   `I donT like "green" eggs 0.9 and ham 1.0`.   
-which translate in MiniTidal as:  
+    
+which translate in MiniTidal as:   
+  
   `slow 3.2 $ s "alphabet:4 alphabet:6 alphabet:6 alphabet:18" # gain 0.9 # up 1.0`  
   
-[Este](../JSoLang/drSeuss.peg) que escribí con el nombre de `drSeuss`, donde puedes correr la siguiente sintaxis:    
+[Este](../JSoLang/drSeuss.peg) que escribí con el nombre de `drSeuss`, donde puedes correr la siguiente sintaxis:   
+  
   `I donT like "green" eggs 0.9 and ham 1.0`.   
+  
 que se traduce en MiniTidal como:  
+  
   `slow 3.2 $ s "alphabet:4 alphabet:6 alphabet:6 alphabet:18" # gain 0.9 # up 1.0`  
   
 I have seven statements, translating: / Tengo siete declaraciones, traduciendo:    
@@ -93,14 +98,20 @@ ________________________________________________________________________________
 ### Text Replacement with CineCer0 / Ejemplo 2: Reemplazo de Text con CineCer0
   
 [This](../JSoLang/humptyDumpty.peg) is the JSoLang I wrote with the name `humptyDumpty`, where you can run the following sintax:    
+  
   `first Humpty dumpty sat on a wall; then Humpty Dumpty had a fall;`.   
+    
 which translate in CineCer0 as:  
+
   `setPosY (-0.2) $ setSize 0.5 $ setOpacity (range 0 1 $ sin 0.5) $ image "specific-url-01";` 
   `setPosY (-0.2) $ setSize 0.5 $ setOpacity (range 1 0 $ sin 0.5) $ imagespecific-url-02;"`  
   
 [Este](../JSoLang/humptyDumpty.peg) que escribí con el nombre de `humptyDumpty`, donde puedes correr la siguiente sintaxis:    
+  
   `first Humpty dumpty sat on a wall; then Humpty Dumpty had a fall`.   
+  
 que se traduce en CineCer0 como:  
+  
   `setPosY (-0.2) $ setSize 0.5 $ setOpacity (range 0 1 $ sin 0.5) $ image "specific-url-01";` 
   `setPosY (-0.2) $ setSize 0.5 $ setOpacity (range 1 0 $ sin 0.5) $ imagespecific-url-02;"`  
   
@@ -137,14 +148,22 @@ ________________________________________________________________________________
 ### Text Replacement with Hydra / Ejemplo 3: Reemplazo de Text con Hydra
   
 [This](../JSoLang/peterPeter.peg) is the JSoLang I wrote with the name `peterPeter`, where you can run the following sintax:    
-  `I donT like "green" eggs 0.9 and ham 1.0`.   
-which translate in Hydra as:  
-  `slow 3.2 $ s "alphabet:4 alphabet:6 alphabet:6 alphabet:18" # gain 0.9 # up 1.0`  
   
-[Este](../JSoLang/peterPeter.peg) que escribí con el nombre de `peterPeter`, donde puedes correr la siguiente sintaxis:    
   `Peter.peter(punkinEater;`  
   `is(Peter).Punkin.eating`   
+  
+which translate in Hydra as:  
+  
+  `s0.initVideo("specific-url");`  
+  `src(s0).modulate(o0).out()`    
+  
+[Este](../JSoLang/peterPeter.peg) que escribí con el nombre de `peterPeter`, donde puedes correr la siguiente sintaxis:    
+  
+  `Peter.peter(punkinEater;`  
+  `is(Peter).Punkin.eating`   
+  
 que se traduce en Hydra como:  
+  
   `s0.initVideo("specific-url");`  
   `src(s0).modulate(o0).out()`   
   
