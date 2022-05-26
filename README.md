@@ -1,9 +1,14 @@
 # documentation-Estuary 
-
-This is a documentation for everyone that wants to use their own media (video, image, sounds) in [Estuary](https://estuary.mcmaster.ca/) 
+ 
+In the following documentation you will find several approached to use in [Estuary](https://estuary.mcmaster.ca/) for:  
++ Importing/Using your own Media (sound samples, videos, images, gifs) from GitHub
++ Writing and using JSoLangs
++ Using/Adapt view system
+  
+  
+## Index
   
 + [Tutoriales / Tutoriales](Tutorials/README.md)
-
 
 + [Sound Samples / Samples de Sonido](Sound/README.md)  
   
