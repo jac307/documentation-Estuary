@@ -55,6 +55,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________
   
 <h3 id="ex1">Example 1</h3>  
+
 ### Text Replacement with MiniTidal / Ejemplo 1: Reemplazo de Text con MiniTidal
 
 [This](../JSoLang/drSeuss.peg) is the JSoLang I wrote with the name `drSeuss`, where you can run the following sintax:    
@@ -88,6 +89,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________
   
 <h3 id="ex2">Example 2</h3>  
+
 ### Text Replacement with CineCer0 / Ejemplo 2: Reemplazo de Text con CineCer0
   
 [This](../JSoLang/humptyDumpty.peg) is the JSoLang I wrote with the name `humptyDumpty`, where you can run the following sintax:    
@@ -131,6 +133,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________
   
 <h3 id="ex3">Example 3</h3>  
+
 ### Text Replacement with Hydra / Ejemplo 3: Reemplazo de Text con Hydra
   
 [This](../JSoLang/peterPeter.peg) is the JSoLang I wrote with the name `peterPeter`, where you can run the following sintax:    
