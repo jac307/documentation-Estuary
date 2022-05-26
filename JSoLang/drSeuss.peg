@@ -6,7 +6,7 @@
 // Ejemplo 1: Reemplazo de Texto en MiniTidal
 
 main = x:allRules* { return "##miniTidal\n" + x.join("") }
-allRules = I / like / green / blue / eggs / ham / and / anyCharacter
+allRules = I / like / green / eggs / ham / and / anyCharacter
 anyCharacter = .
 
 // transforming pattern's time:
@@ -18,8 +18,7 @@ I = "I"i { return "slow 3.2 $" }
 // tocando samples de audio:
 
 like = "like"i { return "s" }
-green = "green"i { return "bd" }
-blue = "blue"i { return "cp" }
+green = "green"i { return "alphabet:4 alphabet:6 alphabet:6 alphabet:18" }
 
 // transforming audio:
 // transformando audios:
@@ -31,5 +30,3 @@ ham = "ham"i { return "# up" }
 // mandar un estado vacío:
 
 and = "and"i { return "" }
-
-
