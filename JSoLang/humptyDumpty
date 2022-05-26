@@ -6,19 +6,17 @@
 // Ejemplo 2: Reemplazo de Texto en CineCer0
 
 main = x:allRules* { return "##cineCer0\n" + x.join("") }
-allRules = on-a / a / wall / fall / sat / had / humpty / dumpty / anyCharacter
+allRules = a / wall / fall / sat / had / humpty / dumpty / Dumpty / first / then / on / anyCharacter
 anyCharacter = .
 
 // Adding videos or image
 // Añadiendo video o imagen
 
-on-a = "sat-on"i { return "video" }
-a = "had-a"i { return "image" }
+a = "a"i { return "image" }
 
-// video links
+wall = "wall"i { return "\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Denslow%27s_Humpty_Dumpty_pg_11.jpg/640px-Denslow%27s_Humpty_Dumpty_pg_11.jpg\"" }
+fall = "fall"i { return "\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Denslow%27s_Humpty_Dumpty_pg_9.jpg/640px-Denslow%27s_Humpty_Dumpty_pg_9.jpg\"" }
 
-wall = "wall"i { return "\"https://github.com/Andamio-in/ILINU-ILIDI/blob/main/Media/Video/jessica.mp4?raw=true\"" }
-fall= "fall"i { return "\"https://github.com/Andamio-in/ILINU-ILIDI/blob/main/Media/Video/marjha.mp4?raw=true\"" }
 
 // Joining functions
 // concatenando funciones
@@ -29,5 +27,12 @@ had = "had"i { return "$" }
 // transforming functions
 // funciones de transformación
 
-humpty = "humpty"i { return "setSize" }
-dumpty = "dumpty"i { return "setOpacity (range 0 1 $ sin 0.5)" }
+humpty = "humpty"i { return "setSize 0.5" }
+dumpty = "dumpty" { return "$ setOpacity (range 0 1 $ sin 0.5)" }
+Dumpty = "Dumpty" { return "$ setOpacity (range 1 0 $ sin 0.5)" }
+first = "first" { return "setPosY (-0.2) $" }
+then = "then" { return "setPosY (-0.2) $" }
+
+// empty function
+
+on = "on"i { return "" }
