@@ -1,3 +1,8 @@
+  
+[Tutorials](../Tutorials/README.md) | [Main](../README.md)    
+  
+-------------------------------------------------------------------------------  
+  
 ## Using/Playing Media (video,image) on Hydra / Usar/Reproducir Media (video,imagen) en Hydra
   
 *This info also works for media in Punctual*  
