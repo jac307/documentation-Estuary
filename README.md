@@ -22,6 +22,8 @@ En esta documentación, encontrarás las siguientes acciones para usar en <a hre
 + [Images / Imágenes](Image/README.md)  
   
 + [GIFs](GIFs/README.md)  
+
++ [JSoLangs](JSoLang/README.md)
   
   
 GitHub repository of this project: <a href="https://github.com/jac307/documentation-Estuary" target="_blank">https://github.com/jac307/documentation-Estuary</a>:
