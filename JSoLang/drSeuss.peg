@@ -1,9 +1,9 @@
+##JSoLang drSeuss
+
 // Please follow the tutorial on JSoLangs to know how to use this on Estuary
 
 // Example 1: Text Replacement in MiniTidal
 // Ejemplo 1: Reemplazo de Texto en MiniTidal
-  
-##JSoLang drSeuss
 
 main = x:allRules* { return "##miniTidal\n" + x.join("") }
 allRules = I / like / green / blue / eggs / ham / and / anyCharacter
