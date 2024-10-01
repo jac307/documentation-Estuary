@@ -19,7 +19,7 @@
   
 <img src="imgs/02.png" width="600">  
   
-+ Go to "Settings", then on the left meny, choose "Pages" / Ve a "Configuraciones", después en el menú izquierdo selecciona "Páguinas".   
++ Go to "Settings", then on the left meny, choose "Pages" / Ve a "Configuraciones", después en el menú izquierdo selecciona "Páginas".   
   
 <img src="imgs/03.png" width="600">  
   
@@ -35,7 +35,7 @@
   
 <img src="imgs/06.png" width="600">  
   
-+ If you click on the url, the page should open / Si le das click a la URL, la páguina debe de abrirse.  
++ If you click on the url, the page should open / Si le das click a la URL, la página debe de abrirse.  
 A "not-found" message may appear, so give it some time to the browser updates the info and re-fresh / Podría aparecer un mensaje de que no encuentra la páguina, si pasa esto: dale algo de tiempo al páguina de actualizarse y vuelve a cargar.  
   
 <img src="imgs/07.png" width="600">  
