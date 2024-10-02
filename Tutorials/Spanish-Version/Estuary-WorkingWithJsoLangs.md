@@ -16,7 +16,7 @@
 
 Los JSoLangs es una aplicación en <a href="https://estuary.mcmaster.ca/" target="_blank">Estuary</a> que permite parsear lenguajes de live coding disponibles para crear nuevos.  
 
-Para este tutorial, he agregado esta [carpeta](../JSoLang/README.md) que contiene un template simple de reemplazo de texto, así como algunos ejemplos.  
+Para este tutorial, he agregado esta [carpeta](../../JSoLang/README.md) que contiene un template simple de reemplazo de texto, así como algunos ejemplos.  
 
 Los JSoLangs pueden escribirse directamente en Estuary pero siempre es mejor guardarlos localmente o en alguna otra plataforma. Para mi proyecto estoy usando GitHub.  
 
@@ -25,7 +25,7 @@ Los JSoLangs pueden escribirse directamente en Estuary pero siempre es mejor gua
 <img src="imgs/77.png" width="600">  
 <img src="imgs/78.png" width="600">  
 
-+ Para este proyecto tengo este template [template](../JSoLang/template-jsolang.peg)
++ Para este proyecto tengo este template [template](../../JSoLang/template-jsolang.peg)
 
   + `name-of-jsolang` = Nombra tu JsoLang.  
   + `language-parsing` = Escribe el nombre de alguno de los lenguajes de lc que hay en Estuary.   
@@ -53,7 +53,7 @@ ________________________________________________________________________________
 
 ### Ejemplo 1: Reemplazo de Text con MiniTidal
 
-[Este](../JSoLang/drSeuss.peg) que escribí con el nombre de `drSeuss`, donde puedes correr la siguiente sintaxis:   
+[Este](../../JSoLang/drSeuss.peg) que escribí con el nombre de `drSeuss`, donde puedes correr la siguiente sintaxis:   
 
   `I donT like "green" eggs 0.9 and ham 1.0`.   
 
@@ -84,7 +84,7 @@ ________________________________________________________________________________
 
 ### Ejemplo 2: Reemplazo de Text con CineCer0
 
-[Este](../JSoLang/humptyDumpty.peg) que escribí con el nombre de `humptyDumpty`, donde puedes correr la siguiente sintaxis:    
+[Este](../../JSoLang/humptyDumpty.peg) que escribí con el nombre de `humptyDumpty`, donde puedes correr la siguiente sintaxis:    
 
   `first Humpty dumpty sat on a wall; then Humpty Dumpty had a fall`.   
 
@@ -122,17 +122,7 @@ ________________________________________________________________________________
 
 ### Ejemplo 3: Reemplazo de Text con Hydra
 
-[This](../JSoLang/peterPeter.peg) is the JSoLang I wrote with the name `peterPeter`, where you can run the following sintax:    
-
-  `Peter.peter(punkinEater;`  
-  `is(Peter).Punkin.eating`   
-
-which translate in Hydra as:  
-
-  `s0.initVideo("specific-url");`  
-  `src(s0).modulate(o0).out()`    
-
-[Este](../JSoLang/peterPeter.peg) que escribí con el nombre de `peterPeter`, donde puedes correr la siguiente sintaxis:    
+[Este](../../JSoLang/peterPeter.peg) que escribí con el nombre de `peterPeter`, donde puedes correr la siguiente sintaxis:    
 
   `Peter.peter(punkinEater;`  
   `is(Peter).Punkin.eating`   

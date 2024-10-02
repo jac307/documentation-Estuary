@@ -16,7 +16,7 @@
 
 JSoLangs is an application in <a href="https://estuary.mcmaster.ca/" target="_blank">Estuary</a> to parse available live coding language to create new ones.    
 
-For this tutorial, I have created this [folder](../JSoLang/README.md) to host a simple text replacement template as well as some examples.    
+For this tutorial, I have created this [folder](../../JSoLang/README.md) to host a simple text replacement template as well as some examples.    
 
 JSoLangs can be written directly on Estuary but it is always better to write and save your JSoLang locally or in any other platform. For my project, I am using GitHub.
 
@@ -26,7 +26,7 @@ JSoLangs can be written directly on Estuary but it is always better to write and
 <img src="imgs/78.png" width="600">  
 
 + Write and save your JSoLang.  
-For this project, I have this [template](../JSoLang/template-jsolang.peg).
+For this project, I have this [template](../../JSoLang/template-jsolang.peg).
 
   + `name-of-jsolang` = Name your JsoLang.  
   + `language-parsing` = Write the name of one of the lc languages in Estuary.   
@@ -53,7 +53,7 @@ ________________________________________________________________________________
 
 ### Text Replacement with MiniTidal
 
-[This](../JSoLang/drSeuss.peg) is the JSoLang I wrote with the name `drSeuss`, where you can run the following sintax:   
+[This](../../JSoLang/drSeuss.peg) is the JSoLang I wrote with the name `drSeuss`, where you can run the following sintax:   
 
   `I donT like "green" eggs 0.9 and ham 1.0`.   
 
@@ -84,7 +84,7 @@ ________________________________________________________________________________
 
 ### Text Replacement with CineCer0
 
-[This](../JSoLang/humptyDumpty.peg) is the JSoLang I wrote with the name `humptyDumpty`, where you can run the following sintax:    
+[This](../../JSoLang/humptyDumpty.peg) is the JSoLang I wrote with the name `humptyDumpty`, where you can run the following sintax:    
 
   `first Humpty dumpty sat on a wall; then Humpty Dumpty had a fall;`.   
 
@@ -122,7 +122,7 @@ ________________________________________________________________________________
 
 ### Text Replacement with Hydra
 
-[This](../JSoLang/peterPeter.peg) is the JSoLang I wrote with the name `peterPeter`, where you can run the following sintax:    
+[This](../../JSoLang/peterPeter.peg) is the JSoLang I wrote with the name `peterPeter`, where you can run the following sintax:    
 
   `Peter.peter(punkinEater;`  
   `is(Peter).Punkin.eating`   
