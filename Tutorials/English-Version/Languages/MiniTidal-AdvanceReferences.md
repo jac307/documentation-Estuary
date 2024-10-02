@@ -13,7 +13,7 @@ ________________________________________________________________________________
 
 ### Examples in Estuary
 
-In [https://estuary.mcmaster.ca/](https://estuary.mcmaster.ca/):
+In [https://estuary.mcmaster.ca/](https://estuary.mcmaster.ca/){:target="_blank"}:
 
 1. Click on the ? Button located in the top-right corner.
 
@@ -27,9 +27,9 @@ In [https://estuary.mcmaster.ca/](https://estuary.mcmaster.ca/):
 
 <img src="imgs/minitidal-11.jpg" width="600">
 
-The Estuary Discord server - all welcome! Sign-up at the following link (note that it's recommended to make an account on discord.com first): [https://discord.gg/snvFzkPtFr](https://discord.gg/snvFzkPtFr)  
+The Estuary Discord server - all welcome! Sign-up at the following link (note that it's recommended to make an account on discord.com first): [https://discord.gg/snvFzkPtFr](https://discord.gg/snvFzkPtFr){:target="_blank"}  
 
-If you would like to know more information about some of the function, you can look for them on the search tool at [https://tidalcycles.org/](https://tidalcycles.org/) (located on the top-right corner). See the bellow information if you do this.
+If you would like to know more information about some of the function, you can look for them on the search tool at [https://tidalcycles.org/](https://tidalcycles.org/){:target="_blank"} (located on the top-right corner). See the bellow information if you do this.
 
 _________________________________________________________________________________________
 _________________________________________________________________________________________
@@ -38,7 +38,7 @@ ________________________________________________________________________________
 
 MiniTidal is a slightly reduced version of TidalCycles.  
 
-+ You can check tutorials directly on the TidalCycles official webpage, such as this: [https://tidalcycles.org/docs/patternlib/tutorials/workshop](https://tidalcycles.org/docs/patternlib/tutorials/workshop)  
++ You can check tutorials directly on the TidalCycles official webpage, such as this: [https://tidalcycles.org/docs/patternlib/tutorials/workshop](https://tidalcycles.org/docs/patternlib/tutorials/workshop){:target="_blank"}  
 
 Something important to mention is that the MiniTidal version in Estuary differs slightly from the original Tidal Cycles syntax.
 
