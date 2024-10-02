@@ -6,7 +6,7 @@
 
 ## Temporally importing samples in Estuary
 
-If you have not made your repo a GitHub Page, please follow [GitHub: Setup](GitHub-setup.md) tutorial first.
+If you have not made your repo a GitHub Page, please follow [GitHub: Setup](GitHub-setup.md){:target="_blank"} tutorial first.
 
 + On your repository, go to the section you have uploaded your sound files.
 + Create a new file.

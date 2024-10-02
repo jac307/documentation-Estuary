@@ -15,7 +15,7 @@ ________________________________________________________________________________
 
 In [https://estuary.mcmaster.ca/](https://estuary.mcmaster.ca/){:target="_blank"}:  
 
-Click on the ? Button located in the top-right corner.
+Click on the `?` Button located in the top-right corner.
 
 <img src="imgs/minitidal-09.jpg" width="600">
 
@@ -59,8 +59,8 @@ ________________________________________________________________________________
 
 Using your own samples in Estuary is possible, but it has a work around using GitHub pages. You can follow these tutorials:
 
-+ [GitHub: Setup](../GitHub-setup.md)
++ [GitHub: Setup](../GitHub-setup.md){:target="_blank"}
 
-+ [GitHub: Adding Media Files](../GitHub-addingFiles.md)
++ [GitHub: Adding Media Files](../GitHub-addingFiles.md){:target="_blank"}
 
-+ [Estuary: Importing Samples for TidalCycles](../Estuary-ImportingSamples.md)
++ [Estuary: Importing Samples for TidalCycles](../Estuary-ImportingSamples.md){:target="_blank"}

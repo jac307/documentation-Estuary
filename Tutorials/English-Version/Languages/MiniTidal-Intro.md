@@ -9,7 +9,7 @@
 
 MiniTidal es the implemented version of TidalCycles in Estuary. On MiniTidal, you can use almost all of the original functions. How to use it:
 
-Go to [https://estuary.mcmaster.ca/](https://estuary.mcmaster.ca/)  
+Go to [https://estuary.mcmaster.ca/](https://estuary.mcmaster.ca/){:target="_blank"}  
 Select SOLO MODE.  
 
 <img src="imgs/minitidal-01.jpg" width="600">
@@ -123,17 +123,17 @@ ________________________________________________________________________________
 
 ### Using MiniTidal: Samples/Sounds
 
-The available samples for MiniTidal are: [https://github.com/tidalcycles/Dirt-Samples](https://github.com/tidalcycles/Dirt-Samples)   
+The available samples for MiniTidal are: [https://github.com/tidalcycles/Dirt-Samples](https://github.com/tidalcycles/Dirt-Samples){:target="_blank"}   
 
 As you can see from the link. The name of tidal cycle samples refers to the name of specific folders. Each folder contains more than one sound file.
 
-<img src="imgs/minitidal-07.png" width="600">
+<img src="imgs/minitidal-07.jpg" width="600">
 
 When you play a sample, it plays the first audio file by default.  
 
 Take, for example, `arpy`. If we look into its folder, we will find 11 sound files. If we run `s "arpy"`, the default sound is arpy01.wav  
 
-<img src="imgs/minitidal-08.png" width="600">
+<img src="imgs/minitidal-08.jpg" width="600">
 
 You can play the other files by using : after the name of the sample, adding the number of the file you want to play. This number starts with `0`. For example:
 

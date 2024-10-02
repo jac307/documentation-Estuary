@@ -4,7 +4,7 @@
 -------------------------------------------------------------------------------  
 
 
-## MiniTidal Intro
+## MiniTidal Transform Patterns
 
 Once you have the basic structure (i.e. `s "bd cp*2"`), you can add transformations (after this structure) using the symbol `#`. This is the case for adding the `vowel` filter, changing the `gain`, adding panning (`pan`), changing pitch (`note`) and setting the sample number (`n`).  
 

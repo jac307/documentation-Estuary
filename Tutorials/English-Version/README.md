@@ -19,6 +19,6 @@
 
 + [Estuary: Using View System](Estuary-ViewSystem.md)
 
-+ [Estuary: Using View System](Estuary-EnsembleMode.md)
++ [Estuary: Ensemble Mode](Estuary-EnsembleMode.md)
 
 + [Tutorials on MiniTidal (TidalCycles), Hydra, & CineCer0](Languages/README.md)

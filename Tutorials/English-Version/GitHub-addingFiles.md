@@ -21,7 +21,7 @@ There are many ways to add/create files in GitHub. This tutorial will go through
 
 + Write "README.md" to create a text file. On the lower text-area, write "##" followed by your title.
 
-5. You can add more information if you desire. To do this, please use the [Markdown sintaxis](https://www.markdownguide.org/basic-syntax/).  
+5. You can add more information if you desire. To do this, please use the [Markdown sintaxis](https://www.markdownguide.org/basic-syntax/){:target="_blank"}.  
 
 <img src="imgs/11.png" width="600">  
 

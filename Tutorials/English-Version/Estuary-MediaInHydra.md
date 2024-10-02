@@ -12,7 +12,7 @@ In Hydra, if you use the URL from Media that is just hosted in a GitHub repo, yo
 
 <img src="imgs/65.png" width="600">  
 
-To solve this, we have to use the GitHub Page settings to publish our media and then get a usable URL for Hydra. If you have not made your repo a GitHub Page, please follow [GitHub: Setup](GitHub-setup.md) tutorial first.      
+To solve this, we have to use the GitHub Page settings to publish our media and then get a usable URL for Hydra. If you have not made your repo a GitHub Page, please follow [GitHub: Setup](GitHub-setup.md){:target="_blank"} tutorial first.      
 
 + Go to the repo/folder where you have your videos or images.  
 + Edit the README file in that folder, adding a direct link to each video or image using the following sintax: `[text](GitHub-location)`. Commit your changes.  
