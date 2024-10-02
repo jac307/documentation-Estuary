@@ -19,24 +19,24 @@ ________________________________________________________________________________
 
 ### Vowel Filter (`vowel`)
 
-1. Play/hear the following:
+Play/hear the following:
 
 + `s "hh cp cp"`
 
-2. Now try:
+Now try:
 
 + `s "hh cp cp" # vowel "a"`
 
 3. The sound now has the filter vowel applied. The values for vowel are `a` `e` `i` `o` `u`
 
-4. Try with the other values:
+Try with the other values:
 
 + `s "hh cp cp" # vowel "e"`
 + `s "hh cp cp" # vowel "i"`
 + `s "hh cp cp" # vowel "o"`
 + `s "hh cp cp" # vowel "u"`
 
-5. Now try with modifying the pattern:
+Now try with modifying the pattern:
 
 + `s "arpy cp arpy:2" # vowel "i"`
 + `s "sn sn:2 bd sn" # vowel "a"`
@@ -47,15 +47,15 @@ ________________________________________________________________________________
 
 ### Changing the volume (`gain`) + Patterns in parameters
 
-1. Play/hear the following:
+Play/hear the following:
 
 + `s "hh cp cp"`
 
-2. Try:
+Try:
 
 + `s "hh cp cp" # gain 0.5`
 
-3. Try:
+Try:
 
 + `s "hh cp cp" # gain 1.2`
 
@@ -63,19 +63,19 @@ The values for gain are numbers from `0` (no sound) to `2.0` (the loudest it can
 
 The above examples have a single value, but you can also add multiple values.  
 
-4. Try:
+Try:
 
 + `s "hh cp cp" # gain "0.5 1.1 0.8"`
 
-You can see that each of the three samples have different volumes. This is because gain is now a pattern (using values in between quotation marks) with three values.
+You can see that each of the three samples have different volumes. This is because gain is now a pattern (using values in between quotation marks) with three values.  
 
-5. Try this other example:
+Try this other example:
 
 + `s "hh cp cp" # gain "0.5 1.1"`
 
-Now, it is only two values with three samples. The gain pattern will start with the sound pattern, but then it will deviate since it is repeating sooner.
+Now, it is only two values with three samples. The gain pattern will start with the sound pattern, but then it will deviate since it is repeating sooner.  
 
-6. Now try with more variations:
+Now try with more variations:
 
 + `s "arpy cp arpy:2" # gain "0.2 1 0.8”`
 + `s "sn sn:2 bd sn" # gain "0.5 1.1 0.8 0.4”`
@@ -86,21 +86,21 @@ ________________________________________________________________________________
 
 ### Panning (`pan`)
 
-Use headphones!
+Use headphones!  
 
-1. Play/hear the following:
+Play/hear the following:
 
 + `s "hh cp cp"`
 
-2. Try the following lines separately:
+Try the following lines separately:
 
 + `s "hh cp cp" # pan 0`
 + `s "hh cp cp" # pan 0.5`
 + `s "hh cp cp" # pan 1`
 
-Values for pan go from `0` (sound totally on the left channel) to `1` (sound totally on the right channel).
+Values for pan go from `0` (sound totally on the left channel) to `1` (sound totally on the right channel).  
 
-3. You can also play with pan patterns:
+You can also play with pan patterns:
 
 + `s "hh cp cp" # pan "0 0.5 1"`
 + `s "arpy cp arpy:2" # gain "0 1"`
@@ -112,33 +112,33 @@ ________________________________________________________________________________
 
 ### Sample Number (`n`) + dynamic parameters
 
-1. Play/hear the following:
+Play/hear the following:
 
 + `s "hh cp cp"`
 
-2. Now try the following lines separately:
+Now try the following lines separately:
 
 + `s "hh cp cp" # n 1`
 + `s "hh cp cp" # n 3`
 
-`n` is similar to using `s "hh:1 cp:1 cp:1"` but helps applying the selection of the sound file to all of the samples. Values of `n` start with `0` (default: first file).
+`n` is similar to using `s "hh:1 cp:1 cp:1"` but helps applying the selection of the sound file to all of the samples. Values of `n` start with `0` (default: first file).  
 
-You can use the dynamic value `(choose[])` to generate more random variations.
+You can use the dynamic value `(choose[])` to generate more random variations.  
 
-3. Try this example:
+Try this example:
 
 + `s "hh cp cp" # n (choose[0,3,2])`
 
 Now, the value of `n` is randomly chosen from the list of values we wrote inside `[]`.
-Another dynamic value that we can use is `(irand)` that will give us a random number between `0` and the value we add after the function `irand`.
+Another dynamic value that we can use is `(irand)` that will give us a random number between `0` and the value we add after the function `irand`.  
 
-4. Try this example:
+Try this example:
 
 + `s "hh cp cp" # n (irand 4)`
 
-The value of `n` is randomly chosen from the first `5` sound files (remember we are counting from `0`!) of each of the samples.
+The value of `n` is randomly chosen from the first `5` sound files (remember we are counting from `0`!) of each of the samples.  
 
-5. Try with more variations:
+Try with more variations:
 
 + `s "arpy cp arpy" # n (irand 2)`
 + `s "sn sn bd sn" # n (irand 3)`
@@ -149,18 +149,18 @@ ________________________________________________________________________________
 
 ### Modify the time of the pattern (`slow` and `fast`)
 
-1. Play/hear the following:
+Play/hear the following:
 
 + `s "hh cp cp"`
 
-2. Now try:
+Now try:
 
 + `slow 2 $ s "hh cp cp”`
 + `fast 2 $ s "hh cp cp"`
 
-`slow` slows the time of the pattern, while `fast` do the opposite. Parameters for both cases start from `1` (default) and grow from there (it can also go lower). They cannot be used at the same time.
+`slow` slows the time of the pattern, while `fast` do the opposite. Parameters for both cases start from `1` (default) and grow from there (it can also go lower). They cannot be used at the same time.  
 
-3. Try with more variations:
+Try with more variations:
 
 + `slow 1.3 $ s "arpy cp arpy:2"`
 + `fast 5 $ s "sn sn:2 bd sn"`

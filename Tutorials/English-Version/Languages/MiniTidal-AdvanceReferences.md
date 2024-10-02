@@ -13,21 +13,21 @@ ________________________________________________________________________________
 
 ### Examples in Estuary
 
-In [https://estuary.mcmaster.ca/](https://estuary.mcmaster.ca/){:target="_blank"}:
+In [https://estuary.mcmaster.ca/](https://estuary.mcmaster.ca/){:target="_blank"}:  
 
-1. Click on the ? Button located in the top-right corner.
+Click on the ? Button located in the top-right corner.
 
 <img src="imgs/minitidal-09.jpg" width="600">
 
-2. A menu with information will appear. Click where it says MiniTidal.
+A menu with information will appear. Click where it says MiniTidal.
 
 <img src="imgs/minitidal-10.jpg" width="600">
 
-3. You can copy/paste the available examples and play around.
+You can copy/paste the available examples and play around.
 
 <img src="imgs/minitidal-11.jpg" width="600">
 
-The Estuary Discord server - all welcome! Sign-up at the following link (note that it's recommended to make an account on discord.com first): [https://discord.gg/snvFzkPtFr](https://discord.gg/snvFzkPtFr){:target="_blank"}  
+The Estuary Discord server - all welcome! Sign-up at the following link (note that it's recommended to make an account on discord.com first): [https://discord.gg/snvFzkPtFr](https://discord.gg/snvFzkPtFr){:target="_blank"}    
 
 If you would like to know more information about some of the function, you can look for them on the search tool at [https://tidalcycles.org/](https://tidalcycles.org/){:target="_blank"} (located on the top-right corner). See the bellow information if you do this.
 

@@ -9,8 +9,8 @@
 
 MiniTidal es the implemented version of TidalCycles in Estuary. On MiniTidal, you can use almost all of the original functions. How to use it:
 
-1. Go to [https://estuary.mcmaster.ca/](https://estuary.mcmaster.ca/)
-2. Select SOLO MODE.
+Go to [https://estuary.mcmaster.ca/](https://estuary.mcmaster.ca/)  
+Select SOLO MODE.  
 
 <img src="imgs/minitidal-01.jpg" width="600">
 
@@ -18,24 +18,25 @@ You will find a working space that, by default, has 6 code editors. Each code ed
 
 <img src="imgs/minitidal-02.jpg" width="600">
 
-3. Choose MiniTidal on the dropdown menu of one of the code editors.
+Choose MiniTidal on the dropdown menu of one of the code editors.
 
 <img src="imgs/minitidal-03.jpg" width="600">
 
-4. Write the following and press play (shift+return/enter or click on the play button)
+Write the following and press play (shift+return/enter or click on the play button)
 
 + `s "cp"` = this line will place a single (clap) sound.
 
 IMPORTANT: Be careful with the quotation marks you use. They must be this type `""`, not this type “” (they generate a syntax error). If you copy/paste code from this tutorial, make sure that it has the correct type since text-editing software often changes the style.
 
-5. Change `cp` for other available sounds like:
+Change `cp` for other available sounds like:
+
 + `bd`
 + `arpy`
 + `crow`
 + `glitch`
 + `hh`
 
-6. Stop sound by erasing everything and pressing the play button.
+Stop sound by erasing everything and pressing the play button.
 
 _________________________________________________________________________________________
 _________________________________________________________________________________________
