@@ -4,7 +4,7 @@
 -------------------------------------------------------------------------------  
 
 
-## MiniTidal Transform Patterns
+## MiniTidal: Transform Patterns
 
 Once you have the basic structure (i.e. `s "bd cp*2"`), you can add transformations (after this structure) using the symbol `#`. This is the case for adding the `vowel` filter, changing the `gain`, adding panning (`pan`), changing pitch (`note`) and setting the sample number (`n`).  
 
@@ -27,7 +27,7 @@ Now try:
 
 + `s "hh cp cp" # vowel "a"`
 
-3. The sound now has the filter vowel applied. The values for vowel are `a` `e` `i` `o` `u`
+3. The sound now has the filter `vowel` applied. The values for `vowel` are `a` `e` `i` `o` `u`
 
 Try with the other values:
 
@@ -59,7 +59,7 @@ Try:
 
 + `s "hh cp cp" # gain 1.2`
 
-The values for gain are numbers from `0` (no sound) to `2.0` (the loudest it can get). Be careful with values higher that 1.5  
+The values for `gain` are numbers from `0` (no sound) to `2.0` (the loudest it can get). Be careful with values higher that `1.5`.
 
 The above examples have a single value, but you can also add multiple values.  
 
@@ -74,6 +74,8 @@ Try this other example:
 + `s "hh cp cp" # gain "0.5 1.1"`
 
 Now, it is only two values with three samples. The gain pattern will start with the sound pattern, but then it will deviate since it is repeating sooner.  
+
+IMPORTANT: For these patterns to work on the transformations, you must have the same or a higher amount of samples in the `s` patterns.  
 
 Now try with more variations:
 
@@ -98,9 +100,9 @@ Try the following lines separately:
 + `s "hh cp cp" # pan 0.5`
 + `s "hh cp cp" # pan 1`
 
-Values for pan go from `0` (sound totally on the left channel) to `1` (sound totally on the right channel).  
+Values for `pan` go from `0` (sound totally on the left channel) to `1` (sound totally on the right channel).  
 
-You can also play with pan patterns:
+You can also use patterns with the `pan` parameters:
 
 + `s "hh cp cp" # pan "0 0.5 1"`
 + `s "arpy cp arpy:2" # gain "0 1"`
@@ -129,7 +131,8 @@ Try this example:
 
 + `s "hh cp cp" # n (choose[0,3,2])`
 
-Now, the value of `n` is randomly chosen from the list of values we wrote inside `[]`.
+Now, the value of `n` is randomly chosen from the list of values we wrote inside `[]`.  
+
 Another dynamic value that we can use is `(irand)` that will give us a random number between `0` and the value we add after the function `irand`.  
 
 Try this example:
@@ -193,7 +196,7 @@ s "drum drum drum drum" # vowel "a o e e" # gain 1.2,
 fast 2 $ s "bd hh sn:1 hh sn:1 hh" # gain "1 0.7 0.5" # pan (choose[0,1])
  ]`  
 
-You can add more sound patterns. Just end each one with a , (comma) at the end of each. All patterns should be inside stack []. The last sound pattern should not have a comma.  
+You can add more sound patterns. Just end each one with a `,` (comma) at the end of each. All patterns should be inside `stack []`. The last sound pattern should not have a comma.  
 
 + Play the following:  
 

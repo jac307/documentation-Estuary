@@ -18,3 +18,7 @@
 + [Estuary: Usando JSoLangs](Estuary-WorkingWithJsoLangs.md)
 
 + [Estuary: Usando el Sistema de Vistas](Estuary-ViewSystem.md)
+
++ [Estuary: Modo Ensamble](Estuary-EnsembleMode.md)
+
++ [Tutoriales en MiniTidal (TidalCycles), Hydra, y CineCer0](Languages/README.md)

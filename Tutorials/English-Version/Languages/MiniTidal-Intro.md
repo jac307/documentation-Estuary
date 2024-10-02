@@ -3,7 +3,7 @@
 
 -------------------------------------------------------------------------------  
 
-## MiniTidal Intro
+## MiniTidal: Intro
 
 ### First Steps
 
@@ -135,11 +135,11 @@ Take, for example, `arpy`. If we look into its folder, we will find 11 sound fil
 
 <img src="imgs/minitidal-08.jpg" width="600">
 
-You can play the other files by using : after the name of the sample, adding the number of the file you want to play. This number starts with `0`. For example:
+You can play the other files by using `:` (use right after the name), adding the number of the file you want to play. This number starts with `0`. For example:
 
-+ `s "arpy:0"` = Will play the default arpy01.wav
++ `s "arpy:0"` = Will play arpy01.wav
 + `s "arpy:1"` = Will play arpy02.wav
-+ `s "arpy:2"` = Will play the default arpy03.wav
++ `s "arpy:2"` = Will play arpy03.wav
 + `s "arpy:3"` = Will play arpy04.wav
 
 Explore the with other available sounds!
