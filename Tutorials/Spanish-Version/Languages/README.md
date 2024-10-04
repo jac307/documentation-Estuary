@@ -11,6 +11,8 @@
 
 + [MiniTidal: Referencias Avanzadas](MiniTidal-AdvanceReferences.md)
 
++ [CineCer0: Guía Rápida](CineCer0-Cheatsheet.md)
+
 <!-- + [CineCer0: Intro](CineCer0-Intro.md)
 
 + [CineCer0: Animated parameters](CineCer0-AnimatedParameters.md)
