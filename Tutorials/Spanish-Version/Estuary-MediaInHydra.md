@@ -13,14 +13,14 @@ En Hydra, si utilizas una URL de Media que únicamente está alojada en un repo 
 
 Para resolver esto, debemos usar la configuración de GitHub Page y así publicar nuestra media y obtener una URL usable en Hydra. Si no has configurado tu repo como una GitHub Page ve al siguiente tutorial primero: [GitHub: Setup](GitHub-setup.md).  
 
-+ Go to the repo/folder where you have your videos or images.  
++ Ve al repo/folder donde tienes tus videos e imágenes.
 + Edita el archivo README de esa carpeta añadiendo un link directo a cada video o imagen usando la siguiente sintaxis: `[texto](locación-en-GitHub)`. Commit tus cambios.  
 + Revisa que los links funcionen.  
 
 <img src="imgs/66.png" width="600"><img src="imgs/67.png" width="600">  
 
 + Ve a settings, luego Pages, y da click en la URL.  
-En este ejemplo he creato links directos en mi README principal, así puedo accesar a las secciones de Video e Imagen.  
+En este ejemplo he creado links directos en mi README principal, así puedo accesar a las secciones de Video e Imagen.  
 
 <img src="imgs/69.png" width="600">  
 
