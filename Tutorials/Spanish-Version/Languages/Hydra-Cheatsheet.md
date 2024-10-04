@@ -6,16 +6,16 @@
 ## Hydra (in Estuary): Guía Rápida
 
 ### Parameters
-+ double
-+ list of doubles = `[]`
--- Lists' tranformers:
-  + `.fast(amount)` -- default: 1
-  + `.smooth(amount)` -- default: 1
++ número con decimal
++ lista de valores = `[]`
+-- Transformadores para listas:
+  + `.fast(valor)` -- default: 1
+  + `.smooth(valor)` -- default: 1
 
 ### Statements
--- Each statement is divided by a semicolon
-+ `speed = double` -- default: 1 <br />
-+ `setResolution(double,double)` <br />
+-- Las líneas de hydra se separan con un `;`
++ `speed = valor` -- default: 1
++ `setResolution(valor,valor)`
 
 ### Imports
 
@@ -28,50 +28,50 @@
 
 ### Sources
 
-+ `osc(fequency, sync, rgb-offset)` // defaults: 60.0, 0.1, 0.0
++ `osc(frecuencia, sync, rgb-offset)` // defaults: 60.0, 0.1, 0.0
 + `solid(r, g, b, a)` // defaults: 0.0, 0.0, 0.0, 1.0
-+ `gradient(speed)` // default: 0.0
++ `gradient(velocidad)` // default: 0.0
 + `noise(scale, offset)` // defaults: 10.0, 0.1
-+ `shape(sides, radius, smoothing)` // defaults: 3.0, 0.3, 0.01
-+ `voronoi(scale, speed, blending)` // defaults: 5.0, 0.3, 0.3
-+ `src()` // options: (any output) `o0`, `o1`, `o2`, `o3` or (any imports) `s0`, `s1`, `s2`, `s3`
++ `shape(lados, radio, smoothing)` // defaults: 3.0, 0.3, 0.01
++ `voronoi(escala, velocidad, blending)` // defaults: 5.0, 0.3, 0.3
++ `src()` // opciones: (outputs) `o0`, `o1`, `o2`, `o3` o (imports) `s0`, `s1`, `s2`, `s3`
 
 
 ### Outputs
-+ `.out(buffer)` // default: `o0` // other options: `o0`, `o1`, `o2`, `o3`
-+ `render(buffer)` // default: all // other options: `o0`, `o1`, `o2`, `o3`
++ `.out(buffer)` // default: `o0` // opciones: `o0`, `o1`, `o2`, `o3`
++ `render(buffer)` // default: all // opciones: `o0`, `o1`, `o2`, `o3`
 
 
 ### Transformers
-+ `.brightness(amount)` // default: 0.4
-+ `.contrast(amount)` // default: 1.6
++ `.brightness(valor)` // default: 0.4
++ `.contrast(valor)` // default: 1.6
 + `.color(red, green, blue, alpha)` // vec4
-+ `.colorama(amount)` // default: 0.005 -- shifts HSV values
-+ `.invert(amount)` // default:1.0
++ `.colorama(valor)` // default: 0.005 -- desplaza los valores de HSV
++ `.invert(valor)` // default:1.0
 + `.luma(threshold, tolerance)` // defaults: 0.5, 0.1
-+ `.hue(amount)` // default: 0.4
++ `.hue(valor)` // default: 0.4
 + `.posterize(bins, gamma)` // defaults: 3.0, 0.6
-+ `.saturate(amount)` // default: 2.0
-+ `.shift(r, g, b, a)` // defaults: 0.5 for all
-+ `.thresh(threshold, tolerance)` // defaults: 0.5, 0.04
++ `.saturate(valor)` // default: 2.0
++ `.shift(r, g, b, a)` // defaults: 0.5 para todos
++ `.thresh(threshold, tolerancia)` // defaults: 0.5, 0.04
 + `.kaleid(#sides)` // default: 4.0
 + `.pixelate(x, y)` // defaults: 20.0, 20.0
 + `.repeat(repeatX, repeatY, offsetX, offsetY)` // defaults: 3.0, 3.0, 0.0, 0.0
 + `.repeatX(reps, offset)`
 + `.repeatY(reps, offset)`
-+ `.rotate(angle, speed)` // defaults: 10.0, 0.0
++ `.rotate(ángulo, velocidad)` // defaults: 10.0, 0.0
 + `.scale(size, xMult, yMult)` // defaults: 1.5, 1.0, 1.0
 + `.scroll(scrollX, scrollY, speedX, speedY)` // defaults: 0.5, 0.5, 0.0, 0.0
-+ `.scrollX(scrollX, speed)`
-+ `.scrollX(scrollY, speed)`
++ `.scrollX(scrollX, velocidad)`
++ `.scrollX(scrollY, velocidad)`
 
 
 ### Modulators
 
-// t = texture = source => osc, solid, gradient, noise, shape, voronoi <br />
+// t = texture = source => osc, solid, gradient, noise, shape, voronoi
 
-+ `.modulate(t, amount)` // amount’s default: 0.1
-+ `.modulateHue(t, amount)` // default: 0.4
++ `.modulate(t, valor)` // amount’s default: 0.1
++ `.modulateHue(t, valor)` // default: 0.4
 + `.modulateKaleid(t, #Sides)` // default: 4.0
 + `.modulatePixelate(t, multiple, offset)` // defaults: 10.0, 3.0
 + `.modulateRepeat (t, repeatX, repeatY, offsetX, offsetY)` //defaults: 3.0, 3.0, 0.5, 0.5
@@ -79,15 +79,15 @@
 + `.modulateRepeatY (t, repeatY, offsetY)`
 + `.modulateRotate(t, multiple, offset)` // defaults: 1.0, 0.0
 + `.modulateScale(t, multiple, offset)` // defaults: 1.0, 1.0
-+ `.modulateScrollX(t, scrollX, speed)` // defaults: 0.5, 0.0
-+ `.modulateScrollY(t, scrollY, speed)` // defaults: 0.5, 0.0
++ `.modulateScrollX(t, scrollX, velocidad)` // defaults: 0.5, 0.0
++ `.modulateScrollY(t, scrollY, velocidad)` // defaults: 0.5, 0.0
 
 
 ### Operators
 
-+ `.add(t, amount)` // default: 0.5
-+ `.mult(t, amount)` // default: 0.5
-+ `.blend(t, amount)` // default: 0.5
++ `.add(t, valor)` // default: 0.5
++ `.mult(t, valor)` // default: 0.5
++ `.blend(t, valor)` // default: 0.5
 + `.diff(t)`
 + `.layer(t)`
 + `.mask(t, reps, offset)` // defaults: 3.0, 0.5
