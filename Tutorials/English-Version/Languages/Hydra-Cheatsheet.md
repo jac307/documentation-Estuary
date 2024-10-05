@@ -13,7 +13,8 @@
   + `.smooth(amount)` -- default: 1
 
 ### Statements
--- Each statement is divided by a semicolon
+
+-- Each statement is divided by a semicolon `;`
 + `speed = double` -- default: 1 <br />
 + `setResolution(double,double)` <br />
 

@@ -11,6 +11,12 @@
 
 + [MiniTidal: Advance References](MiniTidal-AdvanceReferences.md)
 
++ [MiniTidal: Cheatsheet](MiniTidal-Cheatsheet.md)
+
++ [CineCer0: Cheatsheet](CineCer0-Cheatsheet.md)
+
++ [Hydra: Cheatsheet](Hydra-Cheatsheet.md)
+
 <!-- + [CineCer0: Intro](CineCer0-Intro.md)
 
 + [CineCer0: Animated parameters](CineCer0-AnimatedParameters.md)

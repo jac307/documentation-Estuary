@@ -11,6 +11,8 @@
 
 + [MiniTidal: Referencias Avanzadas](MiniTidal-AdvanceReferences.md)
 
++ [MiniTidal: Cheatsheet](MiniTidal-Cheatsheet.md)
+
 + [CineCer0: Guía Rápida](CineCer0-Cheatsheet.md)
 
 + [Hydra: Guía Rápida](Hydra-Cheatsheet.md)

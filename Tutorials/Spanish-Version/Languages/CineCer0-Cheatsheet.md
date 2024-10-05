@@ -5,23 +5,23 @@
 
 ## CineCer0: Guía rápida
 
-### Playing Videos, Images, or Text
+### Reproducir Videos, Imágenes, y Texto
 
 + `video "videoURL"`
 + `image "imageURL"`
-+ `text "This is not a text"` -- lo que va entre comillas es el texto que aparecerá.
++ `text "Este es mi texto"` -- lo que va entre comillas es el texto que aparecerá.
 
-###  Position on Videos, Images, or Text
+###  Posición de Videos, Imágenes, y Texto
 
 + `setPosX [x] $` -- de izq (-1) a der 1
 + `setPosY [y] $` -- de abajo (-1) a arriba 1
 + `setCoord [x] [y] $`
 
-###  Videos with Audio
+###  Videos con Audio
 
 + `vol 0.5 $` -- sin vol 0 a máx vol 1
 
-###  Video/Image functions
+###  Transformaciones para Videos e Imágenes
 
 + `setWidth [w] $` -- 1 = ancho natural
 + `setHeight [h] $` -- 1 = altura natural
@@ -39,14 +39,14 @@
 + `rectMask [t] [r] [b] [l] $` -- acepta cuatro parámetros: arriba, derecha, abajo, izquierda, de donde dismonuye.
 + `z [n] $` -- cambios en en número de capa (layer)
 
-###  Text Function
+###  Transformaciones para Texto
 
 + `size [n] $` --cambia el tamaño del texto creciendo de 1
 + `font "fontType" $` -- cambia el tipo de fuente
 + `colour "colour" $` -- cambia el color usando un número hexacolor
-+ `rgb [r] [g] [b] $` -- cambia el colour usando los parametros de rojo verde azul, normalizado de 0 a 1
++ `rgb [r] [g] [b] $` -- cambia el colour usando los parametros de rojo verde azul, normalizados de 0 a 1
 + `rgba [r] [g] [b] [a] $` -- añade el parametro de alpha a rgb
-+ `hsl [h] [s] [l] $` -- cambia el colour usando los parametros de hue saturación brillo, normalizado de 0 a 1
++ `hsl [h] [s] [l] $` -- cambia el colour usando los parametros de hue saturación brillo, normalizados de 0 a 1
 + `hsla [h] [s] [l] [a] $` -- añade el parametro de alpha a hsl
 + `strike $` -- tacha el texto
 + `bold $` -- cambia el texto a negritas
