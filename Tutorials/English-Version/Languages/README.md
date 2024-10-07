@@ -15,6 +15,8 @@
 
 + [CineCer0: Cheatsheet](CineCer0-Cheatsheet.md)
 
++ [Hydra: Intro](Hydra-Intro.md)
+
 + [Hydra: Cheatsheet](Hydra-Cheatsheet.md)
 
 <!-- + [CineCer0: Intro](CineCer0-Intro.md)
@@ -23,7 +25,7 @@
 
 + [CineCer0: Advance References](CineCer0-AdvanceReferences.md)
 
-+ [Hydra: Intro](Hydra-Intro.md)
+
 
 + [Hydra: Modulators](Hydra-Modulators.md)
 
