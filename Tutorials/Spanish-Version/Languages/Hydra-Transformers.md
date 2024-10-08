@@ -7,7 +7,7 @@
 
 Los transformadores son funciones que puedes aplicarse a las fuentes para transformarlas de diferentes maneras.
 
-Los transformadores se escriben normalmente entre la fuente y la salida:
+Los transformadores se escriben entre la fuente y la salida:
 
 + `fuente` + `.` + `transformadores` + `.` + `salida`
 
@@ -86,7 +86,7 @@ Se pueden aplicar ambas:
 + `osc().brightness([-0.5,0.5].fast().smooth()).out()`
 
 
-#### Lista de Opciones
+### Lista de Opciones
 
 + `.brightness(valor)` // default: 0.4
 + `.contrast(valor)` // default: 1.6
