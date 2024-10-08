@@ -22,7 +22,7 @@ Encontraras un espacio de trabajo con 6 editores de código. Cada editor tiene u
 
 Selecciona Hydra en el menú de uno de los editores.
 
-<img src="imgs/hydra-01.jpg" width="600">
+<img src="imgs/hydra-01.png" width="600">
 
 Escribe lo siguiente y presiona el botón de play (o también puedes presionar shift+return/enter).  
 
@@ -60,7 +60,7 @@ Ejemplo:
 
 #### Fuente: `solid(r,g,b)`
 
-<img src="imgs/hydra-02.jpg" width="600">
+<img src="imgs/hydra-02.png" width="600">
 
 `solid().out` generará un sólido con parámetros por defecto: (0,0,0,1) = negro.
 
@@ -84,7 +84,7 @@ Los parámetros pueden ser enteros (int), decimales (double), y listas []. Este 
 
 #### Fuente: `gradient(velocidad)`
 
-<img src="imgs/hydra-03.jpg" width="600">
+<img src="imgs/hydra-03.png" width="600">
 
 `gradient().out()` generarán una gradiente con parámetros por defecto: (0).
 
@@ -98,7 +98,7 @@ Ejemplos:
 
 #### Fuente: `osc(frecuencia, sincronización, impresionDeColor)`
 
-<img src="imgs/hydra-04.jpg" width="600">
+<img src="imgs/hydra-04.png" width="600">
 
 `osc().out()` generará un oscilador con parámetros por defecto: (60,0.1,0).
 
@@ -122,7 +122,7 @@ Ejemplos:
 
 #### Fuente: `noise(escala, velocidad)`
 
-<img src="imgs/hydra-05.jpg" width="600">
+<img src="imgs/hydra-05.png" width="600">
 
 `noise().out()` genera una textura similar al Ruido Perlin (o la estática visible generada en los televisores). Parámetros por defecto (10,0.1)
 
@@ -140,7 +140,7 @@ Ejemplos:
 
 #### Fuente: `voronoi(escala, velocidad, combinación)`
 
-<img src="imgs/hydra-06.jpg" width="600">
+<img src="imgs/hydra-06.png" width="600">
 
 `voronoi().out()` genera una textura a partir de la partición del espacio con contrucciones geométricas, esto se llama Polígonos de Thiessen (Voronoi diagram). Parámetros por defecto: (5,0.3,0.3).
 
@@ -161,7 +161,7 @@ Ejemplos:
 
 #### Fuente: `shape(lados, radio, difuminado)`
 
-<img src="imgs/hydra-07.jpg" width="600">
+<img src="imgs/hydra-07.png" width="600">
 
 `shape().out()`se utiliza para generar un polígono, modificando los tres parámetros para generar formas más complejas. Parámetros por defecto: (3,0.3,0.01)
 

@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 #### Algunos ejemplos
 
-<img src="imgs/hydra-08.jpg" width="600">
+<img src="imgs/hydra-08.png" width="600">
 
 Sintaxis: `.brightness(cantidad)`
 
@@ -43,7 +43,7 @@ Sintaxis: `.brightness(cantidad)`
 
 Brightness incrementa los niveles de luz en la imagen, se puede aplicar a cualquier source. Los números negativos resultan en texturas oscuras. Números mayores a 0 resultan adición de brillo.
 
-<img src="imgs/hydra-09.jpg" width="600">
+<img src="imgs/hydra-09.png" width="600">
 
 Sintaxis: `.contrast(cantidad)`
 
@@ -53,7 +53,7 @@ Sintaxis: `.contrast(cantidad)`
 Contrast genera una exageración mayor (números positivos) o menor (números negativos) entre los tonos brillantes y oscuros, resultando en texturas con colores más o menos definidos.
 
 
-<img src="imgs/hydra-10.jpg" width="600">
+<img src="imgs/hydra-10.png" width="600">
 
 Sintaxis: `.pixelate(x,y)`
 
@@ -63,11 +63,11 @@ Sintaxis: `.pixelate(x,y)`
 
 #### Algunos ejemplos con listas de parámetros
 
-<img src="imgs/hydra-11.jpg" width="600">
+<img src="imgs/hydra-11.png" width="600">
 
 + `osc().brightness([-0.5,0.5]).out()` // Brillo con una lista de parámetros ([-0.5,0.5]) = el brillo saltará de un parametro al otro.
 
-<img src="imgs/hydra-12.jpg" width="600">
+<img src="imgs/hydra-12.png" width="600">
 
 + `osc().brightness([-0.5,0.5]).pixelate([10,20,30]).out()` // Brillo con una lista de parámetros ([-0.5,0.5]) + Pixelate con una lista de parámetros para el valor x ([10,20,30]) = tanto el brillo con el pixelate saltarán de un parámetro al otro.
 
