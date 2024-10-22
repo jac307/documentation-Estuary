@@ -13,21 +13,24 @@
 
 + [MiniTidal: Cheatsheet](MiniTidal-Cheatsheet.md)
 
-+ [CineCer0: Cheatsheet](CineCer0-Cheatsheet.md)
-
-
-+ [Hydra: Cheatsheet](Hydra-Cheatsheet.md)
+/////////////////////////
 
 <!-- + [CineCer0: Intro](CineCer0-Intro.md)
 
 + [CineCer0: Animated parameters](CineCer0-AnimatedParameters.md)
 
-+ [CineCer0: Advance References](CineCer0-AdvanceReferences.md)
++ [CineCer0: Advance References](CineCer0-AdvanceReferences.md) -->
 
++ [CineCer0: Cheatsheet](CineCer0-Cheatsheet.md)
 
+/////////////////////////
 
-+ [Hydra: Modulators](Hydra-Modulators.md)
++ [Hydra: Intro](Hydra-Intro.md)
 
-+ [Hydra: Importing Video, Images, and Camera Feed](Hydra-VidImgCam.md)
+<!-- + [Hydra: Transformadores](Hydra-Transformers.md)
 
-+ [Hydra: Advance References](Hydra-AdvanceReferences.md) -->
++ [Hydra: Moduladores y Operadores](Hydra-ModOpe.md)
+
++ [Hydra: Referencias Avanzadas](Hydra-AdvanceReferences.md) -->
+
++ [Hydra: Cheatsheet](Hydra-Cheatsheet.md)
