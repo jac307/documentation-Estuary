@@ -1,5 +1,5 @@
 
-[Tutoriales](../Tutorials/README.md) | [Tutorialess en MiniTidal (TidalCycles), Hydra, y CineCer0](README.md)    
+[Tutoriales](../README.md) | [Tutorialess en MiniTidal (TidalCycles), Hydra, y CineCer0](README.md)    
 
 -------------------------------------------------------------------------------  
 
