@@ -1,5 +1,5 @@
 
-[Tutorials](../Tutorials/README.md) | [Home](../../README.md)   
+[Tutorials](README.md) | [Home](../../README.md)   
 
 -------------------------------------------------------------------------------  
 

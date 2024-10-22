@@ -7,7 +7,7 @@
 
 Hydra es una plataforma de live coding para síntesis visual basado en los desarrollos visuales que los sintetizadores análogos generan. Hydra es un proyecto open-source desarrollado por [Olivia Jack](https://ojack.github.io/){:target="_blank"}.  
 
-Hidra en Estuary es una versión reducida del stand-alone de Hydra.  
+Hydra en Estuary es una versión reducida del stand-alone de Hydra.  
 
 ### Primeros pasos
 
