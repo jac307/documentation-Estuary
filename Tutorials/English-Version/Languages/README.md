@@ -27,10 +27,10 @@
 
 + [Hydra: Intro](Hydra-Intro.md)
 
-<!-- + [Hydra: Transformadores](Hydra-Transformers.md)
++ [Hydra: Transformers](Hydra-Transformers.md)
 
-+ [Hydra: Moduladores y Operadores](Hydra-ModOpe.md)
++ [Hydra: Modulators & Operators](Hydra-ModOpe.md)
 
-+ [Hydra: Referencias Avanzadas](Hydra-AdvanceReferences.md) -->
++ [Hydra: Advance References](Hydra-AdvanceReferences.md)
 
 + [Hydra: Cheatsheet](Hydra-Cheatsheet.md)
