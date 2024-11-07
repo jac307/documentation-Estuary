@@ -23,7 +23,7 @@ A menu with information will appear. Click where it says Hydra.
 
 You can copy/paste the available examples and play around. You can also read the other provided information.
 
-<img src="imgs/hydra-26.jpg" width="600">
+<img src="imgs/hydra-26.png" width="600">
 
 The Estuary Discord server - all welcome! Sign-up at the following link (note that it's recommended to make an account on discord.com first): [https://discord.gg/snvFzkPtFr](https://discord.gg/snvFzkPtFr){:target="_blank"}    
 
