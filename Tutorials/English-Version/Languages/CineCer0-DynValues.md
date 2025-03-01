@@ -25,7 +25,7 @@ In the following line of code, the size of the text is set to three times it siz
 
 + `size 3 $ text "This is my text"`
 
-If we replace the fixed value `3` for `(ramp Dur_In_Cycles Initial_Value End_Value)`, we will animate the size.
+If we replace the fixed value `3` for `(ramp Dur_In_Cycles Initial_Value End_Value)`, we will animate the size:
 
 + `size (ramp 3 1 5) $ text "This is my text"`
 
@@ -39,19 +39,19 @@ In the following line of code, the coordinates are set to 0.5 in the X axis, and
 
 + `setCoord 0.5 0 $ setSize 0.5 $ video "https://jac307.github.io/videoTextures/mariposa/01.mov"`
 
-If we replace the fixed value of `0.5` for `(ramp Dur_In_Cycles Initial_Value End_Value)`, we will animate the X coordinate.
+If we replace the fixed value of `0.5` for `(ramp Dur_In_Cycles Initial_Value End_Value)`, we will animate the X coordinate:
 
 + `setCoord (ramp 8 (-0.5) 0.5) 0 $ setSize 0.5 $ video "https://jac307.github.io/videoTextures/mariposa/01.mov"`
 
 In the previous line of code, the X value will run from coordinate -0.5 (left) to 0.5 (right). This animation will happen in 8 cycles. The coordinate Y has a fixed value, therefore it won't change.
 
-<img src="imgs/cinecero-15.png" width="600">
+<img src="imgs/cinecero-15.png" width="800">
 
 + `setCoord (ramp 8 (-0.5) 0.5) (ramp 10 (-1) 1) $ setSize 0.5 $ video "https://jac307.github.io/videoTextures/mariposa/01.mov"`
 
 In the previous line of code, the Y value will also run from coordinate -1 (bottom) to 1 (top). This animation will happen in 10 cycles. In this case, both X and Y will be animated, moving from bottom-left to top-left.
 
-<img src="imgs/cinecero-16.png" width="600">
+<img src="imgs/cinecero-16.png" width="800">
 
 _________________________________________________________________________________________
 _________________________________________________________________________________________
@@ -74,7 +74,7 @@ If we replace the fixed value `3` for `(range Value_1 Value_2 $ sin Speed)`, we 
 
 In the previous line of code, the size will run back and forward from 1 to 5 with a speed of 0.5 --lower values on speed will go slower.
 
-<img src="imgs/cinecero-17.png" width="600">
+<img src="imgs/cinecero-17.png" width="800">
 
 #### Example 2:
 
@@ -82,13 +82,13 @@ In the following line of code, the coordinates are set to 0.5 in the X axis, and
 
 + `setCoord 0.5 0 $ setSize 0.5 $ video "https://jac307.github.io/videoTextures/mariposa/01.mov"`
 
-If we replace the fixed value of `0.5` for `(range Value_1 Value_2 $ sin Speed)`, we will animate the X coordinate.
+If we replace the fixed value of `0.5` for `(range Value_1 Value_2 $ sin Speed)`, we will animate the X coordinate:
 
 + `setCoord (range (-0.5) 0.5 $ sin 0.2) 0 $ setSize 0.5 $ video "https://jac307.github.io/videoTextures/mariposa/01.mov"`
 
 In the previous line of code, the coordinate X will run back and forward from -0.5 (left) to 0.5 (right) with a speed of 0.2. The coordinate Y has a fixed value, therefore it won't change.
 
-<img src="imgs/cinecero-18.png" width="600">
+<img src="imgs/cinecero-18.png" width="800">
 
 + `setCoord (range (-0.5) 0.5 $ sin 0.1) (range (-1) 1 $ sin 0.2) $ setSize 0.5 $ video "https://jac307.github.io/videoTextures/mariposa/01.mov"`
 

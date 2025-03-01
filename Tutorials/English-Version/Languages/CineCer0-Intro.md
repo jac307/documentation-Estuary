@@ -7,7 +7,7 @@
 
 ### First Steps
 
-CineCer0 is a live coding language that allows live interactions with video, image, and text. CineCer0 is implemented in [https://estuary.mcmaster.ca/](https://estuary.mcmaster.ca/){:target="_blank"} and was developed by the research team of this platform.  
+CineCer0 is a live coding language that allows live interactions with video, image, and text. CineCer0 is implemented in [https://estuary.mcmaster.ca/](https://estuary.mcmaster.ca/){:target="_blank"} and was developed by [Prof. David Ogborn](https://experts.mcmaster.ca/display/ogbornd){:target="_blank"} and the research team of this platform.  
 
 How to use it:  
 
@@ -28,7 +28,7 @@ Choose CineCer0 on the dropdown menu of one of the code editors.
 
 Write the following and press play (shift+return/enter or click on the play button)
 
-+ `text "This is my intro text"` = this line will visualize the text inside quotation marks. The text will appear at the middle of the screen.
++ `text "This is my intro text"` = this line will visualize the text inside quotation marks. The text will appear in the middle of the screen.
 
 <img src="imgs/cinecero-02.png" width="600">
 
@@ -42,7 +42,7 @@ Delete text by erasing everything and pressing the play button.
 
 Copy/Paste the following and press play (shift+return/enter or click on the play button)
 
-+ `image "https://jac307.github.io/documentation-Estuary/Image/00.png"` = this line will visualize the image (represented by the URL) inside quotation marks. This image will appear at the center, fitting the width of the screen.
++ `image "https://jac307.github.io/documentation-Estuary/Image/00.png"` = this line will visualize the image (represented by the URL) inside quotation marks. This image will appear at the center, fitting the height of the screen.
 
 <img src="imgs/cinecero-04.png" width="600">
 
@@ -50,17 +50,15 @@ Slightly change the URL of the above image. Change only the last number => Inste
 
 Delete image by erasing everything and pressing the play button.
 
-Note:
-
 ### Video Function
 
 Copy/Paste the following and press play (shift+return/enter or click on the play button)
 
-+ `video "https://jac307.github.io/videoTextures/mariposa/01.mov"` = this line will visualize the video (represented by the URL) inside quotation marks. This video will appear at the center, fitting the width of the screen.
-
-Slightly change the URL of the above video, changing only the last number => Instead of `/01.mov`, write `/02.mov`, `/03.mov`, so on; you can choose any number from `01` to `80`. See how the video changes.
++ `video "https://jac307.github.io/videoTextures/mariposa/01.mov"` = this line will visualize the video (represented by the URL) inside quotation marks. This video will appear at the center, fitting the height of the screen.
 
 <img src="imgs/cinecero-03.png" width="600">
+
+Slightly change the URL of the above video, changing only the last number => Instead of `/01.mov`, write `/02.mov`, `/03.mov`, so on; you can choose any number from `01` to `80`. See how the video changes.
 
 Delete video by erasing everything and pressing the play button.
 

@@ -11,9 +11,13 @@ These functions should be added in any order before `text`, `image`, or `video`.
 + `transformer` + `$` + `image ""`
 + `transformer` + `$` + `video ""`
 
+or with accumulative transformations (you can add as many as you want):
+
++ `transformer` + `$` + `transformer` + `$` + `transformer` + `$` + `text ""`
+
 Example:
 
-+ `setSize 0.5 $ video "https://jac307.github.io/videoTextures/mariposa/01.mov"` // This runs a video half the size the width keeping its natural aspect ratio (proportions).
++ `setSize 0.5 $ video "https://jac307.github.io/videoTextures/mariposa/01.mov"` // This runs a video half the size the height keeping its natural aspect ratio (proportions).
 
 More transformers can be added, always linked (applied) by using `$`.
 
@@ -24,8 +28,6 @@ ________________________________________________________________________________
 
 ### Transforming Text
 
-<img src="imgs/cinecero-05.png" width="600">
-
 Syntax: `size n $`
 
 + `size 3 $ text "This is my text"` // The text will be three times its default size.
@@ -33,7 +35,7 @@ Syntax: `size n $`
 
 This transformer modifies the size of the text proportionally and in increments.
 
-<img src="imgs/cinecero-06.png" width="600">
+<img src="imgs/cinecero-05.png" width="600">
 
 Syntax: `rgb r g b $`
 
@@ -43,13 +45,15 @@ Syntax: `rgb r g b $`
 
 This transformer modifies the values of red, green, and blue which are normalized from 0 (no colour) to 1 (full colour).
 
-<img src="imgs/cinecero-07.png" width="600">
+<img src="imgs/cinecero-06.png" width="600">
 
 Syntax: `strike $`
 
 + `strike $ text "This is my text"`
 
 This transformer strikes the text; it doesn't need a parameter/value.  
+
+<img src="imgs/cinecero-07.png" width="600">
 
 You can apply all of the above functions together using the following example:
 
@@ -63,8 +67,8 @@ You can apply all of the above functions together using the following example:
 + `setPosY y $` -- from bottom (-1) to top 1
 + `setCoord x y $`
 + `size n $` -- 1++ bigger font size
-+ `font "fontType" $` -- change font
-+ `colour "colour" $` -- change colour, value = hexacolor
++ `font "fontType" $` -- change font, name must be inside quotation marks; *use only [safe web fonts](https://www.w3schools.com/cssref/css_websafe_fonts.php){:target="_blank"}
++ `colour "colour" $` -- change colour, value = hexacolor --must be inside quotation marks
 + `rgb r g b $` -- change colour, values = red green blue, normalized from 0 to 1
 + `rgba r g b a $` -- with fourth value = alpha
 + `hsl h s l $` -- change colour, values = hue saturation lightness, normalized from 0 to 1
@@ -79,8 +83,6 @@ ________________________________________________________________________________
 
 ### Transforming Image and Text
 
-<img src="imgs/cinecero-09.png" width="600">
-
 Syntax: `setSize n $`
 
 + `setSize 3 $ video "https://jac307.github.io/videoTextures/mariposa/01.mov"` // The video will be three times its default size.
@@ -88,18 +90,18 @@ Syntax: `setSize n $`
 
 This transformer modifies the size of the image/video proportionally and in increments.
 
-<img src="imgs/cinecero-10.png" width="600">
+<img src="imgs/cinecero-09.png" width="600">
 
 Syntax: `setCoord x y $`
 
 + `setCoord 0 0.5 $ video "https://jac307.github.io/videoTextures/mariposa/01.mov"` // The video will be positioned slightly to the right.
 + `setCoord (-0.5) 0 $ image "https://jac307.github.io/documentation-Estuary/Image/00.png"` // The image will positioned slightly to the left
 
-<img src="imgs/cinecero-11.png" width="300">
+<img src="imgs/cinecero-10.png" width="600">
 
 This transformer modifies the position following the coordinates; `0 0` = centre of the screen. The anchor point is at the centre of the image/video. Negative numbers must be inside parentheses `()`.
 
-<img src="imgs/cinecero-12.png" width="600">
+<img src="imgs/cinecero-11.png" width="300">
 
 Syntax: `setRotate 100 $`
 
@@ -107,6 +109,8 @@ Syntax: `setRotate 100 $`
 + `setRotate (-20) $ image "https://jac307.github.io/documentation-Estuary/Image/00.png"` // The image is slightly rotated to the left
 
 The values of `setRotate` are in degrees.
+
+<img src="imgs/cinecero-12.png" width="600">
 
 You can apply all of the above functions together using the following examples:
 

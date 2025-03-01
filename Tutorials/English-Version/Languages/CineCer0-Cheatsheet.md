@@ -47,8 +47,8 @@
 ###  Text Function
 
 + `size n $` -- 1++ bigger font size
-+ `font "fontType" $` -- change font
-+ `colour "colour" $` -- change colour, value = hexacolor
++ `font "fontType" $` -- change font, name must be inside quotation marks; *use only [safe web fonts](https://www.w3schools.com/cssref/css_websafe_fonts.php){:target="_blank"}
++ `colour "colour" $` -- change colour, value = hexacolor --must be inside quotation marks
 + `rgb r g b $` -- change colour, values = red green blue, normalized from 0 to 1
 + `rgba r g b a $` -- with fourth value = alpha
 + `hsl h s l $` -- change colour, values = hue saturation lightness, normalized from 0 to 1
