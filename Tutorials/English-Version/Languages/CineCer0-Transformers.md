@@ -3,7 +3,7 @@
 
 -------------------------------------------------------------------------------  
 
-## CineCer0: Transformations
+## CineCer0: Transforming Text, Image, or Video
 
 These functions should be added in any order before `text`, `image`, or `video`. All transformers are applied to each other using `$`:
 
