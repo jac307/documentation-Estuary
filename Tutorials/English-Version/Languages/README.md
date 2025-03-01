@@ -17,7 +17,9 @@
 
 + [CineCer0: Intro](CineCer0-Intro.md)
 
-+ [CineCer0: Transformations](CineCer0-Transformers.md)
++ [CineCer0: Transforming Text, Image, or Video](CineCer0-Transformations.md)
+
++ [CineCer0: Dynamic Values](CineCer0-DynValues.md)
 
 + [CineCer0: Advance References](CineCer0-AdvanceReferences.md)
 
