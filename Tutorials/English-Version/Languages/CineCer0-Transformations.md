@@ -95,7 +95,7 @@ Syntax: `setCoord x y $`
 + `setCoord 0 0.5 $ video "https://jac307.github.io/videoTextures/mariposa/01.mov"` // The video will be positioned slightly to the right.
 + `setCoord (-0.5) 0 $ image "https://jac307.github.io/documentation-Estuary/Image/00.png"` // The image will positioned slightly to the left
 
-<img src="imgs/cinecero-11.png" width="600">
+<img src="imgs/cinecero-11.png" width="300">
 
 This transformer modifies the position following the coordinates; `0 0` = centre of the screen. The anchor point is at the centre of the image/video. Negative numbers must be inside parentheses `()`.
 
