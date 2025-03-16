@@ -14,6 +14,8 @@ Author **John Cayley** identified categories for classifying codeworks, includin
 **Cayley, J. (2006).** *Time code language: New media poetics and programmed signification.*  
 In **New Media Poetics: Contexts, Technotexts, and Theories**, pp. 307-334.
 
+--
+
 The **code poetry** (Fig.1) of Australian artist and poet *<a href="https://www.mezbreezedesign.com/" target="_blank">Mez Breeze</a>*, particularly her *<a href="https://anthology.rhizome.org/mez-breeze" target="_blank">Mezangelle</a>* style, exemplifies this category. Her work is frequently described as **non-executable code poetry**.
 
 <figure>
@@ -21,21 +23,21 @@ The **code poetry** (Fig.1) of Australian artist and poet *<a href="https://www.
     <figcaption>Figure 1: Screenshot of Mez Breeze, 4-7 5-kc5, email from 7-11 email list, May 13, 1998.</figcaption>
 </figure>
 
-Mezangelle is a non-functional programming language that poetically merges machine and human languages, reshaping English with code-inspired syntax.
+**Mezangelle** is a non-functional programming language that poetically merges machine and human languages, reshaping English with code-inspired syntax. Mezangelle disrupts both code and English, blending them into a non-functional, unreadable form that challenges dominant language structures creating alternative ways of meaning and knowledge.
 
 ---
 
 # 🌟 Codework Activity: Writing Code Poetry
 
 ## 🎯 Objective:
-Explore the intersection of **computer language syntax and poetry** by crafting your own **code-inspired poem** using **CSS syntax** as a creative tool.
+Explore the intersection of **computer language syntax and poetry** by crafting your own **non-executable codework** using **CSS syntax** as a creative tool.
 
 ---
 
 ## 📌 Activity Overview:
-1️⃣ **Class Discussion:** Understanding CSS Syntax & Structure *(Whole Class, 20 min)*
-2️⃣ **Code Poetry Writing:** Crafting Your Own Codework *(Pairs, 25 min)*
-3️⃣ **Sharing & Discussion:** Analyzing & Reflecting on the Work *(Whole Class, 15 min)*
+1. **Class Discussion:** Understanding CSS Syntax & Structure *(Whole Class, 20 min)*
+2. **Code Poetry Writing:** Crafting Your Own Codework *(Pairs, 25 min)*
+3. **Sharing & Discussion:** Analyzing & Reflecting on the Work *(Whole Class, 15 min)*
 
 ---
 
