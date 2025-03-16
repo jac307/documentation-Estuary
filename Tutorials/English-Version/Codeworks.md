@@ -4,7 +4,25 @@
 -------------------------------------------------------------------------------
 ### Click the Button to Read Aloud:
 
-<button onclick="speakText()">🔊 Read Aloud</button>
+<style>
+  .tts-button {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 10px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .tts-button:hover {
+    background-color: #45a049;
+  }
+</style>
+
+<button class="tts-button" onclick="speakText()">🔊 Read Aloud</button>
 
 <script>
   function speakText() {
@@ -15,6 +33,8 @@
     window.speechSynthesis.speak(speech);
   }
 </script>
+---
+---
 
 ## Codeworks
 
@@ -106,17 +126,23 @@ body {
 ```
 
 ```css
+sould {
+    transition: fading 20y slowly-coming-and-growing;
+}
+
+/* and then */
+
 love:active {
     transform-at-any-time: withLife(∞);
 }
 ```
 
-## 3️⃣ Sharing & Discussion: Reading & Analyzing Code Poetry *(Whole Class, 10 min)*  
+## 3️⃣ Sharing & Discussion: Reading & Analyzing Codeworks *(Whole Class, 10 min)*  
 
 1. Save your codework as an image (JPEG) or PDF file.
 2. **Upload your codework** to this <a href="https://www.dropbox.com/request/N5HktCap6Am4VywsxCM1" target="_blank">Dropbox link</a>
 
-- 🔹 I will **open 2-3 examples** for the class to discuss.
+🔹 I will **open 2-3 examples** for the class to discuss.
 
 ### 💡 Discussion Questions:
 - How does each piece **play with CSS syntax**?  
@@ -126,7 +152,7 @@ love:active {
 ---
 
 ## 🎯 Wrap-Up:
-🔸 **Code poetry blurs the boundaries** between language, programming, and creative expression.    
+🔸 **Codeworks blurs the boundaries** between language, programming, and creative expression.    
 🔸 **Programming syntax can be a poetic structure**—it doesn't need to function, only to evoke meaning.   
 🔸 **How else could digital language be repurposed for creative writing?**  
 
