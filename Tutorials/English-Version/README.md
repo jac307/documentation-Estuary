@@ -15,6 +15,8 @@
 
 + [Estuary: Using Media in Hydra](Estuary-MediaInHydra.md)
 
++ [Codeworks](Codeworks.md)
+
 + [Estuary: Working with JSoLangs](Estuary-WorkingWithJsoLangs.md)
 
 + [Estuary: Using View System](Estuary-ViewSystem.md)
