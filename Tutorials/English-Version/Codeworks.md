@@ -2,6 +2,19 @@
 [Tutorials](README.md) | [Home](../../README.md)
 
 -------------------------------------------------------------------------------
+### Click the Button to Read Aloud:
+
+<button onclick="speakText()">🔊 Read Aloud</button>
+
+<script>
+  function speakText() {
+    let text = document.body.innerText;
+    let speech = new SpeechSynthesisUtterance(text);
+    speech.lang = "en-US"; // Set language
+    speech.rate = 1; // Adjust speed (1 = normal)
+    window.speechSynthesis.speak(speech);
+  }
+</script>
 
 ## Codeworks
 
@@ -47,14 +60,14 @@ Explore the intersection of **computer language syntax and poetry** by crafting 
 
 ### **What is CSS?**
 CSS (**Cascading Style Sheets**) is a computer language used to **style web pages**, controlling elements like fonts, colours, and layout.  
-But what if we **repurposed its syntax** for poetry instead of design?
+💡 But what if we **repurposed its syntax** for poetry instead of design?
 
 ### **Example: CSS syntax**
 
 ```css
 body {
-    background: darkness;
-    font-family: "silence", sans-serif;
+    background: black;
+    font-family: "Raleway", sans-serif;
     color: green;
 }
 
@@ -77,9 +90,9 @@ a:hover {
 ### **💻 Task: Write a Short Code Poem**  
 In **pairs**, create a **code-inspired poem** using CSS syntax as your foundation.  
 
-✅ **Use at least three elements** from CSS (selectors, properties, values).  
+✅ **Use at least three elements** from CSS (symbols, functions, values).  
 ✅ **Choose a theme** (e.g., memory, glitch, loss, love, repetition).  
-✅ **Break the syntax if needed**—prioritize meaning over functionality.  
+✅ **Break the syntax if needed**—prioritize meaning over functionality; remember this is a non-functional codework!  
 
 ### **Examples Code Poetry (For Inspiration)**
 
@@ -93,33 +106,29 @@ body {
 ```
 
 ```css
-soul {
-    opacity: 0.5;
-    transition: fading 10s ease-in-out;
-}
-
 love:active {
-    transform: scale(∞);
+    transform-at-any-time: withLife(∞);
 }
 ```
 
 ## 3️⃣ Sharing & Discussion: Reading & Analyzing Code Poetry *(Whole Class, 10 min)*  
 
-- 🔹 Save your codework as an image (JPEG) or PDF file.
-- 🔹 **Upload your codework** to this <a href="https://www.dropbox.com/request/N5HktCap6Am4VywsxCM1" target="_blank">Dropbox link</a>
+1. Save your codework as an image (JPEG) or PDF file.
+2. **Upload your codework** to this <a href="https://www.dropbox.com/request/N5HktCap6Am4VywsxCM1" target="_blank">Dropbox link</a>
+
 - 🔹 I will **open 2-3 examples** for the class to discuss.
 
 ### 💡 Discussion Questions:
-- How does this piece **play with syntax**?  
+- How does each piece **play with CSS syntax**?  
 - What **emotions or themes** emerge from the code?  
 - Could this be **read in multiple ways**?  
 
 ---
 
 ## 🎯 Wrap-Up:
-- 🔸 **Code poetry blurs the boundaries** between language, programming, and creative expression.  
-- 🔸 **Programming syntax can be a poetic structure**—it doesn't need to function, only to evoke meaning.  
-- 🔸 **How else could digital language be repurposed for creative writing?**  
+🔸 **Code poetry blurs the boundaries** between language, programming, and creative expression.    
+🔸 **Programming syntax can be a poetic structure**—it doesn't need to function, only to evoke meaning.   
+🔸 **How else could digital language be repurposed for creative writing?**  
 
 
 ---
