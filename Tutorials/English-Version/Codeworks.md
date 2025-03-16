@@ -49,7 +49,7 @@ Explore the intersection of **computer language syntax and poetry** by crafting 
 CSS (**Cascading Style Sheets**) is a language used to **style web pages**, controlling elements like fonts, colors, and layout.  
 But what if we **repurposed its syntax** for poetry instead of design?
 
-### **Example: CSS as Code Poetry**
+### **Example: CSS syntax**
 
 ```css
 body {
@@ -81,7 +81,7 @@ In **pairs**, create a **code-inspired poem** using CSS syntax as your foundatio
 ✅ **Choose a theme** (e.g., memory, glitch, loss, love, repetition).  
 ✅ **Break the syntax if needed**—prioritize meaning over functionality.  
 
-### **Example Code Poetry (For Inspiration)**
+### **Examples Code Poetry (For Inspiration)**
 
 ```css
 body {
@@ -89,6 +89,17 @@ body {
     my-family: "forgotten", "lost";
     text-continues: justify;
     display: none;
+}
+```
+
+```css
+soul {
+    opacity: 0.5;
+    transition: fading 10s ease-in-out;
+}
+
+love:active {
+    transform: scale(∞);
 }
 ```
 
@@ -109,29 +120,6 @@ body {
 - 🔸 **Code poetry blurs the boundaries** between language, programming, and creative expression.  
 - 🔸 **Programming syntax can be a poetic structure**—it doesn't need to function, only to evoke meaning.  
 - 🔸 **How else could digital language be repurposed for creative writing?**  
-
-
-<style>
-  pre {
-    background-color: black;
-    color: lime;
-    padding: 10px;
-    border-radius: 5px;
-  }
-</style>
-
-```css
-body {
-    background: darkness;
-    font-family: "silence", sans-serif;
-    color: #broken;
-}
-
-a:hover {
-    content: "uncertainty";
-    transition: fade-out 2s;
-}
-```
 
 
 ---
