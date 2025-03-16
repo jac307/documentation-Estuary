@@ -37,16 +37,16 @@ Explore the intersection of **computer language syntax and poetry** by crafting 
 ---
 
 ## 📌 Activity Overview:
-1. **Class Discussion:** Understanding CSS Syntax & Structure *(Whole Class, 20 min)*
-2. **Code Poetry Writing:** Crafting Your Own Codework *(Pairs, 25 min)*
-3. **Sharing & Discussion:** Analyzing & Reflecting on the Work *(Whole Class, 15 min)*
+1. **Class Discussion:** Understanding CSS Syntax & Structure *(Whole Class, 10 min)*
+2. **Code Poetry Writing:** Crafting Your Own Codework *(Pairs, 10 min)*
+3. **Sharing & Discussion:** Analyzing & Reflecting on the Work *(Whole Class, 10 min)*
 
 ---
 
-## 1️⃣ Class Discussion: Understanding CSS Syntax & Structure *(20 min)*
+## 1️⃣ Class Discussion: Understanding CSS Syntax & Structure *(10 min)*
 
 ### **What is CSS?**
-CSS (**Cascading Style Sheets**) is a language used to **style web pages**, controlling elements like fonts, colors, and layout.  
+CSS (**Cascading Style Sheets**) is a computer language used to **style web pages**, controlling elements like fonts, colours, and layout.  
 But what if we **repurposed its syntax** for poetry instead of design?
 
 ### **Example: CSS syntax**
@@ -55,7 +55,7 @@ But what if we **repurposed its syntax** for poetry instead of design?
 body {
     background: darkness;
     font-family: "silence", sans-serif;
-    color: #broken;
+    color: green;
 }
 
 a:hover {
@@ -66,13 +66,13 @@ a:hover {
 
 ## 💡 Discussion Questions:
 - What programming symbols do you notice?
-- How do the selectors (e.g., `body`, `a:hover`) function?
-- How does breaking the syntax create poetic meaning?
+- What words do you recognize?
+- How do you think the `body` and `a:hover` sections changes the style?
 - If CSS controlled emotions instead of styles, what would you write?
 
 ---
 
-## 2️⃣ Code Poetry Writing: Crafting Your Own Codework *(Pairs, 25 min)*  
+## 2️⃣ Code Poetry Writing: Crafting Your Own Codework *(Pairs, 10 min)*  
 
 ### **💻 Task: Write a Short Code Poem**  
 In **pairs**, create a **code-inspired poem** using CSS syntax as your foundation.  
@@ -103,7 +103,7 @@ love:active {
 }
 ```
 
-## 3️⃣ Sharing & Discussion: Reading & Analyzing Code Poetry *(Whole Class, 15 min)*  
+## 3️⃣ Sharing & Discussion: Reading & Analyzing Code Poetry *(Whole Class, 10 min)*  
 
 - 🔹 Save your codework as an image (JPEG) or PDF file.
 - 🔹 **Upload your codework** to this <a href="https://www.dropbox.com/request/N5HktCap6Am4VywsxCM1" target="_blank">Dropbox link</a>
