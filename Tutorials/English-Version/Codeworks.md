@@ -2,7 +2,6 @@
 [Tutorials](README.md) | [Home](../../README.md)
 
 -------------------------------------------------------------------------------
-### Click the Button to Read Aloud:
 
 <style>
   .tts-button {
@@ -33,8 +32,6 @@
     window.speechSynthesis.speak(speech);
   }
 </script>
----
----
 
 ## Codeworks
 
