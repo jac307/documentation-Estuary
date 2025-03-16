@@ -9,20 +9,19 @@ In simple terms, a **codework** is a form of creative writing that integrates pr
 
 Author **John Cayley** identified categories for classifying codeworks, including:  
 
-+ **"Code infecting or modulating language"**—where the language functions, but the code is broken (*p.311-312*).  
-
-<figure>
-    <img src="imgs/93.png" width="600">
-    <figcaption>Figure 1: Screenshot of Mez Breeze, 4-7 5-kc5, email from 7-11 email list, May 13, 1998.</figcaption>
-</figure>
-
-The **code poetry** (Fig.1) of Australian artist and poet *<a href="https://collection.eliterature.org/1/aux/keywords.html" target="_blank">Electronic Literature Collection, Volume One</a>*, particularly her *<a href="https://anthology.rhizome.org/mez-breeze" target="_blank">Mezangelle</a>
-* style, exemplifies this category. Her work is frequently described as **non-executable code poetry**.
-
-Mezangelle is a non-functional programming language that poetically merges machine and human languages, reshaping English with code-inspired syntax.
++ **"Code infecting or modulating language"**—where the language functions, but the code is broken (*p.311-312*).
 
 **Cayley, J. (2006).** *Time code language: New media poetics and programmed signification.*  
 In **New Media Poetics: Contexts, Technotexts, and Theories**, pp. 307-334.
+
+The **code poetry** (Fig.1) of Australian artist and poet *<a href="https://www.mezbreezedesign.com/" target="_blank">Mez Breeze</a>*, particularly her *<a href="https://anthology.rhizome.org/mez-breeze" target="_blank">Mezangelle</a>* style, exemplifies this category. Her work is frequently described as **non-executable code poetry**.
+
+<figure>
+    <img src="imgs/93.png" width="400">
+    <figcaption>Figure 1: Screenshot of Mez Breeze, 4-7 5-kc5, email from 7-11 email list, May 13, 1998.</figcaption>
+</figure>
+
+Mezangelle is a non-functional programming language that poetically merges machine and human languages, reshaping English with code-inspired syntax.
 
 ---
 
@@ -91,8 +90,9 @@ body {
 
 ## 3️⃣ Sharing & Discussion: Reading & Analyzing Code Poetry *(Whole Class, 15 min)*  
 
-- 🔹 **Upload your code poem** to Dropbox (link provided).  
-- 🔹 I will **open 2-3 examples** for the class to discuss.  
+- 🔹 Save your codework as an image (JPEG) or PDF file.
+- 🔹 **Upload your codework** to this <a href="https://www.dropbox.com/request/N5HktCap6Am4VywsxCM1" target="_blank">Dropbox link</a>
+- 🔹 I will **open 2-3 examples** for the class to discuss.
 
 ### 💡 Discussion Questions:
 - How does this piece **play with syntax**?  
