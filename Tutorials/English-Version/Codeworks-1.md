@@ -76,8 +76,8 @@ Explore the intersection of **computer language syntax and poetry** by crafting 
 
 ## 📌 Activity Overview:
 1. **Class Discussion:** Understanding CSS Syntax & Structure *(Whole Class, 10 min)*
-2. **Code Poetry Writing:** Crafting Your Own Codework *(Pairs, 10 min)*
-3. **Sharing & Discussion:** Analyzing & Reflecting on the Work *(Whole Class, 10 min)*
+2. **Codework Writing:** Creating Your Code-Poetry *(Pairs, 10 min)*
+3. **Class Reflection:** Sharing and Analyzing Class Code-Poetry *(Whole Class, 10 min)*
 
 ---
 
@@ -111,12 +111,12 @@ a:hover {
 
 ---
 
-## 2️⃣ Code Poetry Writing: Crafting Your Own Codework *(Pairs, 10 min)*  
+## 2️⃣ Codework Writing: Creating Your Code-Poetry *(Pairs, 10 min)*  
 
-### **💻 Task: Write a Short Code Poem**  
+### **📝 Task: Write a Short Code-Poem**  
 In **pairs**, create a **code-inspired poem** using CSS syntax as your foundation.  
 
-✅ **Use at least three elements** from CSS (symbols, functions, values).  
+✅ **Use at least two elements** from CSS (structure, symbols, functions, values).  
 ✅ **Choose a theme** (e.g., memory, glitch, loss, love, repetition).  
 ✅ **Break the syntax if needed**—prioritize meaning over functionality; remember this is a non-functional codework!  
 
@@ -143,7 +143,7 @@ love:active {
 }
 ```
 
-## 3️⃣ Sharing & Discussion: Reading & Analyzing Codeworks *(Whole Class, 10 min)*  
+## 3️⃣ Class Reflection: Sharing and Analyzing Class Code-Poetry *(Whole Class, 10 min)*  
 
 1. Save your codework as an image (JPEG) or PDF file.
 2. **Upload your codework** to this <a href="https://www.dropbox.com/request/N5HktCap6Am4VywsxCM1" target="_blank">Dropbox link</a>
