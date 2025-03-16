@@ -25,6 +25,8 @@ The **code poetry** (Fig.1) of Australian artist and poet *<a href="https://www.
 
 **Mezangelle** is a non-functional programming language that poetically merges machine and human languages, reshaping English with code-inspired syntax. Mezangelle disrupts both code and English, blending them into a non-functional, unreadable form that challenges dominant language structures creating alternative ways of meaning and knowledge.
 
+--
+
 ---
 
 # 🌟 Codework Activity: Writing Code Poetry
@@ -44,7 +46,7 @@ Explore the intersection of **computer language syntax and poetry** by crafting 
 ## 1️⃣ Class Discussion: Understanding CSS Syntax & Structure *(20 min)*
 
 ### **What is CSS?**
-CSS (**Cascading Style Sheets**) is a language used to **style web pages**, controlling elements like fonts, colors, and layout.
+CSS (**Cascading Style Sheets**) is a language used to **style web pages**, controlling elements like fonts, colors, and layout.  
 But what if we **repurposed its syntax** for poetry instead of design?
 
 ### **Example: CSS as Code Poetry**
@@ -107,6 +109,29 @@ body {
 - 🔸 **Code poetry blurs the boundaries** between language, programming, and creative expression.  
 - 🔸 **Programming syntax can be a poetic structure**—it doesn't need to function, only to evoke meaning.  
 - 🔸 **How else could digital language be repurposed for creative writing?**  
+
+
+<style>
+  pre {
+    background-color: black;
+    color: lime;
+    padding: 10px;
+    border-radius: 5px;
+  }
+</style>
+
+```css
+body {
+    background: darkness;
+    font-family: "silence", sans-serif;
+    color: #broken;
+}
+
+a:hover {
+    content: "uncertainty";
+    transition: fade-out 2s;
+}
+```
 
 
 ---
