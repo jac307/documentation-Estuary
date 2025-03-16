@@ -33,7 +33,7 @@
   }
 </script>
 
-## Codework: Code infecting or modulating language
+## Codework: Non-Executable Code-Poetry
 
 In simple terms, a **codework** is a form of creative writing that integrates programming languages within the text (*<a href="https://collection.eliterature.org/1/aux/keywords.html" target="_blank">Electronic Literature Collection, Volume One</a>*).  
 
@@ -67,7 +67,7 @@ The image features a glitchy, terminal-style digital poem displayed in green tex
 
 ---
 
-# 🌟 Codework Activity: Writing Code Poetry
+# 🌟 Codework Activity: Writing Non-Executable Code-Poetry
 
 ## 🎯 Objective:
 Explore the intersection of **computer language syntax and poetry** by crafting your own **non-executable codework** using **CSS syntax** as a creative tool.
