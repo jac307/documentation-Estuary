@@ -53,6 +53,14 @@ The **code poetry** (Fig.1) of Australian artist and poet *<a href="https://www.
     <figcaption>Figure 1: Screenshot of Mez Breeze, 4-7 5-kc5, email from 7-11 email list, May 13, 1998.</figcaption>
 </figure>
 
+### 🖼️ Image Description:
+The image features a glitchy, terminal-style digital poem displayed in green text on a black background, resembling an old computer screen or hacker aesthetics. The text is arranged in an asymmetrical layout, with a mix of symbols, letters, and spaces that create a fragmented, non-linear poetic structure.
+
+### 🔊 Listen to the Audio version:
+<audio controls>
+  <source src="imgs/codework-mez.wav" type="audio/mpeg">
+</audio>
+
 **Mezangelle** is a non-functional programming language that poetically merges machine and human languages, reshaping English with code-inspired syntax. Mezangelle disrupts both code and English, blending them into a non-functional, unreadable form that challenges dominant language structures creating alternative ways of meaning and knowledge.
 
 --
