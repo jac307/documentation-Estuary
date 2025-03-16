@@ -5,15 +5,19 @@
 
 ## Codeworks
 
-In simple terms, a **codework** is a form of creative writing that integrates programming languages within the text (*[Electronic Literature Collection, Volume One](https://collection.eliterature.org/1/aux/keywords.html)*).  
+In simple terms, a **codework** is a form of creative writing that integrates programming languages within the text (*<a href="https://collection.eliterature.org/1/aux/keywords.html" target="_blank">Electronic Literature Collection, Volume One</a>*).  
 
 Author **John Cayley** identified categories for classifying codeworks, including:  
 
 + **"Code infecting or modulating language"**—where the language functions, but the code is broken (*p.311-312*).  
 
-<img src="imgs/93.png" width="600">
+<figure>
+    <img src="imgs/93.png" width="600">
+    <figcaption>Figure 1: Screenshot of Mez Breeze, 4-7 5-kc5, email from 7-11 email list, May 13, 1998.</figcaption>
+</figure>
 
-The **code poetry** of Australian artist and poet **[Mez Breeze](https://www.mezbreezedesign.com/)**, particularly her **[Mezangelle](https://anthology.rhizome.org/mez-breeze)** style, exemplifies this category. Her work is frequently described as **non-executable code poetry**.
+The **code poetry** (Fig.1) of Australian artist and poet *<a href="https://collection.eliterature.org/1/aux/keywords.html" target="_blank">Electronic Literature Collection, Volume One</a>*, particularly her *<a href="https://anthology.rhizome.org/mez-breeze" target="_blank">Mezangelle</a>
+* style, exemplifies this category. Her work is frequently described as **non-executable code poetry**.
 
 Mezangelle is a non-functional programming language that poetically merges machine and human languages, reshaping English with code-inspired syntax.
 
