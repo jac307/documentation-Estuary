@@ -70,7 +70,7 @@ The image features a glitchy, terminal-style digital poem displayed in green tex
 # 🌟 Codework Activity: Writing Non-Executable Code-Poetry
 
 ## 🎯 Objective:
-Explore the intersection of **computer language syntax and poetry** by crafting your own **non-executable codework** using **CSS syntax** as a creative tool.
+Explore the intersection of **computer language syntax and poetry** by crafting your own **non-executable code-poetry** inspired by **CSS syntax**.
 
 ---
 
@@ -84,8 +84,7 @@ Explore the intersection of **computer language syntax and poetry** by crafting 
 ## 1️⃣ Class Discussion: Understanding CSS Syntax & Structure *(10 min)*
 
 ### **What is CSS?**
-CSS (**Cascading Style Sheets**) is a computer language used to **style web pages**, controlling elements like fonts, colours, and layout.  
-💡 But what if we **repurposed its syntax** for poetry instead of design?
+CSS (**Cascading Style Sheets**) is a computer language used to **style web pages**, controlling elements like fonts, colours, and layout.
 
 ### **Example: CSS syntax**
 
@@ -102,10 +101,12 @@ a:hover {
 }
 ```
 
-## 💡 Discussion Questions:
+## 📢 Discussion Questions:
 - What programming symbols do you notice?
 - What words do you recognize?
 - How do you think the `body` and `a:hover` sections changes the style?
+
+💡 But what if we **repurposed its syntax** for poetry?
 - If CSS controlled emotions instead of styles, what would you write?
 
 ---
@@ -149,7 +150,7 @@ love:active {
 
 🔹 I will **open 2-3 examples** for the class to discuss.
 
-### 💡 Discussion Questions:
+### 📢 Discussion Questions:
 - How does each piece **play with CSS syntax**?  
 - What **emotions or themes** emerge from the code?  
 - Could this be **read in multiple ways**?  
