@@ -33,7 +33,7 @@
   }
 </script>
 
-## Codeworks
+## Codework: Code infecting or modulating language
 
 In simple terms, a **codework** is a form of creative writing that integrates programming languages within the text (*<a href="https://collection.eliterature.org/1/aux/keywords.html" target="_blank">Electronic Literature Collection, Volume One</a>*).  
 

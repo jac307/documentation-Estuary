@@ -15,7 +15,7 @@
 
 + [Estuary: Using Media in Hydra](Estuary-MediaInHydra.md)
 
-+ [Codeworks](Codeworks.md)
++ [Codework: Code infecting or modulating language](Codeworks-1.md)
 
 + [Estuary: Working with JSoLangs](Estuary-WorkingWithJsoLangs.md)
 
