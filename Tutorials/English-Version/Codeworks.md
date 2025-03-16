@@ -13,7 +13,7 @@ Author **John Cayley** identified categories for classifying codeworks, includin
 
 <img src="imgs/93.png" width="600">
 
-The **code-poetry** from Australian artist and poet **[Mez Breeze](https://www.mezbreezedesign.com/)** with **[Mezangelle](https://anthology.rhizome.org/mez-breeze)** fits this category. This work is often described as **non-executable code poetry**.
+The **code poetry** of Australian artist and poet **[Mez Breeze](https://www.mezbreezedesign.com/)**, particularly her **[Mezangelle](https://anthology.rhizome.org/mez-breeze)** style, exemplifies this category. Her work is frequently described as **non-executable code poetry**.
 
 Mezangelle is a non-functional programming language that poetically merges machine and human languages, reshaping English with code-inspired syntax.
 
