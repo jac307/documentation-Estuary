@@ -159,7 +159,7 @@ love:active {
 
 ---
 
-## 🎯 Wrap-Up:
+## 🔄 Wrap-Up:
 🔸 **Codeworks blurs the boundaries** between language, programming, and creative expression.    
 🔸 **Programming syntax can be a poetic structure**—it doesn't need to function, only to evoke meaning.   
 🔸 **How else could digital language be repurposed for creative writing?**  

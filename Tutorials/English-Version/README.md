@@ -17,6 +17,8 @@
 
 + [Codework: Non-Executable Code-Poetry](Codeworks-1.md)
 
++ [Codework: Executable Code-Poetry](Codeworks-2.md)
+
 + [Estuary: Working with JSoLangs](Estuary-WorkingWithJsoLangs.md)
 
 + [Estuary: Using View System](Estuary-ViewSystem.md)
