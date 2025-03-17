@@ -44,9 +44,9 @@ In **New Media Poetics: Contexts, Technotexts, and Theories**, pp. 307-334.
 
 The **code poetry** (Fig.1) of Mexican-Canadian media artist *<a href="https://vimeo.com/jessicaarianne" target="_blank">Jessica A. Rodriguez</a>*, particularly her project *<a href="https://jac307.github.io/MEMORIAS/" target="_blank">MEMORIAS</a>* exemplifies **executable code-poetry**. Her work hybridizes live coding practices with Electronic Literature.
 
-<iframe src="https://player.vimeo.com/video/565310015" width="70%" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/565310015" width="90%" frameborder="0" allowfullscreen></iframe>
 
-**MEMORIAS** is a Web-based artistic project **six executable code-works** that combines natural (Spanish, English, and Spanglish) with computing languages to produce a/v textures.
+**MEMORIAS** is a Web-based artistic project with **six executable codeworks** that combines natural (Spanish, English, and Spanglish) with computing languages to produce a/v textures.
 
 
 ---
