@@ -77,7 +77,7 @@ Explore the intersection of **computer language syntax and poetry** by crafting 
 ## 📌 Activity Overview:
 1. **Class Discussion:** Understanding CSS Syntax & Structure *(Whole Class, 10 min)*
 2. **Codework Writing:** Creating Your Code-Poetry *(Pairs, 10 min)*
-3. **Class Reflection:** Sharing and Analyzing Class Code-Poetry *(Whole Class, 10 min)*
+3. **Class Reflection:** Sharing and Analyzing Class Code-Poetry Examples *(Whole Class, 10 min)*
 
 ---
 
@@ -143,7 +143,9 @@ love:active {
 }
 ```
 
-## 3️⃣ Class Reflection: Sharing and Analyzing Class Code-Poetry *(Whole Class, 10 min)*  
+## 3️⃣ Class Reflection: Sharing and Analyzing Class Code-Poetry Examples *(Whole Class, 10 min)*  
+
+### 📌 Instructions:
 
 1. Save your codework as an image (JPEG) or PDF file.
 2. **Upload your codework** to this <a href="https://www.dropbox.com/request/N5HktCap6Am4VywsxCM1" target="_blank">Dropbox link</a>
