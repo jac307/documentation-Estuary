@@ -89,24 +89,24 @@ JSoLangs allow you to create **new poetic languages** on top of Estuary’s exis
 📌 Follow these tutorials to **learn how your tool works**:  
 
 ### **Hydra**  
-- <a href="Languages/Hydra-Intro.md" target="_blank">Hydra: Intro</a>  
-- <a href="Languages/Hydra-Transformers.md" target="_blank">Hydra: Transformers</a>  
-- <a href="Languages/Hydra-ModOpe.md" target="_blank">Hydra: Modulators & Operators</a>  
-- <a href="Languages/Hydra-AdvanceReferences.md" target="_blank">Hydra: Advanced References</a>  
-- <a href="Languages/Hydra-Cheatsheet.md" target="_blank">Hydra: Cheatsheet</a>  
+- <a href="https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/Hydra-Intro.html" target="_blank">Hydra: Intro</a>  
+- <a href="https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/Hydra-Transformers.html" target="_blank">Hydra: Transformers</a>  
+- <a href="https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/Hydra-ModOpe.html" target="_blank">Hydra: Modulators & Operators</a>  
+- <a href="https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/Hydra-AdvanceReferences.html" target="_blank">Hydra: Advanced References</a>  
+- <a href="https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/Hydra-Cheatsheet.html" target="_blank">Hydra: Cheatsheet</a>  
 
 ### **CineCer0**  
-- <a href="Languages/CineCer0-Intro.md" target="_blank">CineCer0: Intro</a>  
-- <a href="Languages/CineCer0-Transformations.md" target="_blank">CineCer0: Transforming Text, Image, or Video</a>  
-- <a href="Languages/CineCer0-DynValues.md" target="_blank">CineCer0: Dynamic Values</a>  
-- <a href="Languages/CineCer0-AdvanceReferences.md" target="_blank">CineCer0: Advanced References</a>  
-- <a href="Languages/CineCer0-Cheatsheet.md" target="_blank">CineCer0: Cheatsheet</a>  
+- <a href="https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/CineCer0-Intro.html" target="_blank">CineCer0: Intro</a>  
+- <a href="https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/CineCer0-Transformations.html" target="_blank">CineCer0: Transforming Text, Image, or Video</a>  
+- <a href="https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/CineCer0-DynValues.html" target="_blank">CineCer0: Dynamic Values</a>  
+- <a href="https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/CineCer0-AdvanceReferences.html" target="_blank">CineCer0: Advanced References</a>  
+- <a href="Languages/CineCer0-Cheatsheet.html" target="_blank">CineCer0: Cheatsheet</a>  
 
 ### **TydalCycles (MiniTidal)**  
-- <a href="Languages/MiniTidal-Intro.md" target="_blank">MiniTidal: Intro</a>  
-- <a href="Languages/MiniTidal-TranformPatterns.md" target="_blank">MiniTidal: Transform Patterns</a>  
-- <a href="Languages/MiniTidal-AdvanceReferences.md" target="_blank">MiniTidal: Advanced References</a>  
-- <a href="Languages/MiniTidal-Cheatsheet.md" target="_blank">MiniTidal: Cheatsheet</a>  
+- <a href="https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/MiniTidal-Intro.html" target="_blank">MiniTidal: Intro</a>  
+- <a href="https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/MiniTidal-TranformPatterns.html" target="_blank">MiniTidal: Transform Patterns</a>  
+- <a href="https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/MiniTidal-AdvanceReferences.html" target="_blank">MiniTidal: Advanced References</a>  
+- <a href="https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Languages/MiniTidal-Cheatsheet.html" target="_blank">MiniTidal: Cheatsheet</a>  
 
 
 📌 **Explore:**  
@@ -118,7 +118,7 @@ JSoLangs allow you to create **new poetic languages** on top of Estuary’s exis
 ## 🔹 **Step 3: Create Your Executable Code-Poem**  
 
 📖 **Follow this tutorial to learn how to create a JSoLang:**  
-➡️ <a href="Estuary-WorkingWithJsoLangs.md" target="_blank">Estuary: Working with JSoLangs</a>
+➡️ <a href="https://jac307.github.io/documentation-Estuary/Tutorials/English-Version/Estuary-WorkingWithJsoLangs.html" target="_blank">Estuary: Working with JSoLangs</a>
 
 Now, write a **short code-poem** that is both **readable as text** and **executable in Estuary**.  
 
