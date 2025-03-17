@@ -35,14 +35,14 @@
 
 ## Codework: Executable Code-Poetry
 
-**John Cayley**’s categories also include **functional codeworks** that merge executable commands with creative writing—both **human-readable** and **computer-executable**.
+**John Cayley**’s categories also include **functional codeworks** that merge executable commands with creative writing. In other words, these codeworks are both **human-readable** and **computer-executable**.
 
 **Cayley, J. (2006).** *Time code language: New media poetics and programmed signification.*  
 In **New Media Poetics: Contexts, Technotexts, and Theories**, pp. 307-334.
 
 --
 
-The **code poetry** (Fig.1) of Mexican-Canadian media artist *<a href="https://vimeo.com/jessicaarianne" target="_blank">Jessica A. Rodriguez</a>*, particularly her project *<a href="https://jac307.github.io/MEMORIAS/" target="_blank">MEMORIAS</a>* exemplifies **executable code-poetry**. Her work hybridizes **Live Coding** with **Electronic Literature**.
+The **code-poetry** (Fig.1) of Mexican-Canadian media artist *<a href="https://vimeo.com/jessicaarianne" target="_blank">Jessica A. Rodriguez</a>*, particularly her project *<a href="https://jac307.github.io/MEMORIAS/" target="_blank">MEMORIAS</a>* exemplifies **executable code-poetry**. Her work hybridizes **Live Coding** with **Electronic Literature**.
 
 <iframe src="https://player.vimeo.com/video/565310015" width="800" height="313" frameborder="0" allowfullscreen></iframe>
 

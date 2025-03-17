@@ -35,9 +35,9 @@
 
 ## Codework: Non-Executable Code-Poetry
 
-In simple terms, a **codework** is a form of creative writing that integrates programming languages within the text (*<a href="https://collection.eliterature.org/1/aux/keywords.html" target="_blank">Electronic Literature Collection, Volume One</a>*).  
+In simple terms, a **codework** is a form of creative writing influenced by computer languages (*<a href="https://collection.eliterature.org/1/aux/keywords.html" target="_blank">Electronic Literature Collection, Volume One</a>*).  
 
-Author **John Cayley** identified categories for classifying codeworks, including:  
+Author **John Cayley** identifies categories for classifying codeworks, including:  
 
 + **"Code infecting or modulating language"**—where the language functions, but the code is broken (*p.311-312*).
 
@@ -46,7 +46,7 @@ In **New Media Poetics: Contexts, Technotexts, and Theories**, pp. 307-334.
 
 --
 
-The **code poetry** (Fig.1) of Australian artist and poet *<a href="https://www.mezbreezedesign.com/" target="_blank">Mez Breeze</a>*, particularly her *<a href="https://anthology.rhizome.org/mez-breeze" target="_blank">Mezangelle</a>* style, exemplifies this category. Her work is frequently described as **non-executable code poetry**.
+The **code-poetry** (Fig.1) of Australian artist and poet *<a href="https://www.mezbreezedesign.com/" target="_blank">Mez Breeze</a>*, particularly her *<a href="https://anthology.rhizome.org/mez-breeze" target="_blank">Mezangelle</a>* style, exemplifies this category. Her work is frequently described as **non-executable code-poetry**.
 
 <figure>
     <img src="imgs/93.png" width="400">
