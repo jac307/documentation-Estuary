@@ -46,7 +46,7 @@ In **New Media Poetics: Contexts, Technotexts, and Theories**, pp. 307-334.
 
 The **code-poetry** of *[Jessica A. Rodriguez](https://vimeo.com/jessicaarianne)*, particularly her project *[MEMORIAS](https://jac307.github.io/MEMORIAS/)*, exemplifies **executable code-poetry**, blending **Live Coding** and **Electronic Literature**.  
 
-<iframe src="https://player.vimeo.com/video/565310015" width="90%" height="90%" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/565310015" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>
 
 **MEMORIAS** is a web-based project featuring **six executable codeworks**, integrating natural languages (**Spanish, English, Spanglish**) with **computing languages** to generate audiovisual textures.  
 
@@ -118,7 +118,7 @@ JSoLangs allow you to create **new poetic languages** on top of Estuary’s exis
 ## 🔹 **Step 3: Create Your Executable Code-Poem**  
 
 📖 **Follow this tutorial to learn how to create a JSoLang:**  
-➡️ <a href="Estuary-WorkingWithJsoLangs.md" target="_blank">Estuary: Working with JSoLangs</a> 
+➡️ <a href="Estuary-WorkingWithJsoLangs.md" target="_blank">Estuary: Working with JSoLangs</a>
 
 Now, write a **short code-poem** that is both **readable as text** and **executable in Estuary**.  
 
