@@ -44,7 +44,7 @@ In **New Media Poetics: Contexts, Technotexts, and Theories**, pp. 307-334.
 
 ## 🔹 **Executable Code-Poetry in MEMORIAS**  
 
-The **code-poetry** of *[Jessica A. Rodriguez](https://vimeo.com/jessicaarianne)*, particularly her project *[MEMORIAS](https://jac307.github.io/MEMORIAS/)*, exemplifies **executable code-poetry**, blending **Live Coding** and **Electronic Literature**.  
+The **code-poetry** of *<a href="https://vimeo.com/jessicaarianne" target="_blank">Jessica A. Rodriguez</a>*, particularly her project *<a href="https://jac307.github.io/MEMORIAS/" target="_blank">MEMORIAS</a>* exemplifies **executable code-poetry**, blending **Live Coding** and **Electronic Literature**.  
 
 <iframe src="https://player.vimeo.com/video/565310015" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>
 
@@ -57,7 +57,7 @@ The **code-poetry** of *[Jessica A. Rodriguez](https://vimeo.com/jessicaarianne)
 **Level:** Intermediate  
 
 ## 🎯 **Objective**  
-Explore the intersection of **computer language syntax and poetry** by crafting an **executable code-poem** using **JSoLangs** in <a href="https://estuary.mcmaster.ca/" target="_blank">Estuary</a>.  
+Explore the intersection of **computer language syntax and poetry** by crafting an **executable code-poem** using **JSoLangs** in <a href="https://estuary.mcmaster.ca/" target="_blank">Estuary</a>
 
 
 ## 💻 **Technologies**  
