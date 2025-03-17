@@ -33,20 +33,102 @@
   }
 </script>
 
-## Codework: Executable Code-Poetry
+# Codework: Executable Code-Poetry  
 
-**John Cayley**’s categories also include **functional codeworks** that merge executable commands with creative writing. In other words, these codeworks are both **human-readable** and **computer-executable**.
+**John Cayley**’s categories include **functional codeworks**, which merge executable commands with creative writing. These works are both **human-readable** and **computer-executable**.  
 
 **Cayley, J. (2006).** *Time code language: New media poetics and programmed signification.*  
-In **New Media Poetics: Contexts, Technotexts, and Theories**, pp. 307-334.
+In **New Media Poetics: Contexts, Technotexts, and Theories**, pp. 307-334.  
 
---
+---  
 
-The **code-poetry** (Fig.1) of Mexican-Canadian media artist *<a href="https://vimeo.com/jessicaarianne" target="_blank">Jessica A. Rodriguez</a>*, particularly her project *<a href="https://jac307.github.io/MEMORIAS/" target="_blank">MEMORIAS</a>* exemplifies **executable code-poetry**. Her work hybridizes **Live Coding** with **Electronic Literature**.
+## 🔹 **Executable Code-Poetry in MEMORIAS**  
+
+The **code-poetry** of *[Jessica A. Rodriguez](https://vimeo.com/jessicaarianne)*, particularly her project *[MEMORIAS](https://jac307.github.io/MEMORIAS/)*, exemplifies **executable code-poetry**, blending **Live Coding** and **Electronic Literature**.  
 
 <iframe src="https://player.vimeo.com/video/565310015" width="90%" height="90%" frameborder="0" allowfullscreen></iframe>
 
-**MEMORIAS** is a Web-based artistic project with **six executable codeworks** that combines natural (Spanish, English, and Spanglish) with computing languages to produce a/v textures.
+**MEMORIAS** is a web-based project featuring **six executable codeworks**, integrating natural languages (**Spanish, English, Spanglish**) with **computing languages** to generate audiovisual textures.  
 
+--
 
----
+# 🌟 **Codework Activity: Writing Executable Code-Poetry in Estuary**  
+
+**Level:** Intermediate  
+
+## 🎯 **Objective**  
+Explore the intersection of **computer language syntax and poetry** by crafting an **executable code-poem** using **JSoLangs** in [Estuary](https://estuary.mcmaster.ca/).  
+
+## 🎯 **Technologies**  
+
+**Estuary** is a *live coding platform for collaboration and experimentation with sound, music, and visuals in a web browser.*  
+
+**JSoLangs** are *small JavaScript programs* [built with the peggyjs/peggy library] *that transpile live-coded text into one or more of Estuary’s underlying languages* (Ogborn, et al., 2021).  
+
+📖 **Reference:** Ogborn, D., Littler, C., & Sicchio, K. (2021). *[JSoLangs: Ephemeral esolangs in a collaborative live coding environment](https://works.hcommons.org/records/fpq3s-6b149).* CSDH/SCHN @ Congress - 2021 University of Alberta.  
+
+---  
+
+## 🔹 **Step 1: Choose Your Live Coding Tool**  
+
+JSoLangs allow you to create **new poetic languages** on top of Estuary’s existing live coding environments. First, choose one of the following tools:  
+
+- 🎨 **Hydra** → For **video synthesis** (generative visuals).  
+- 🎞 **CineCer0** → For **text-based animation & video manipulation**.  
+- 🎵 **TydalCycles (MiniTidal)** → For **musical event patterning**.  
+
+💡 **Tip:** Choose the tool that best fits your artistic or conceptual goals!  
+
+---  
+
+## 🔹 **Step 2: Learn the Basics of Your Chosen Tool**  
+
+📌 Follow these tutorials to **learn how your tool works**:  
+
+### **Hydra**  
+- [Hydra: Intro](Languages/Hydra-Intro.md)  
+- [Hydra: Transformers](Languages/Hydra-Transformers.md)  
+- [Hydra: Modulators & Operators](Languages/Hydra-ModOpe.md)  
+- [Hydra: Advanced References](Languages/Hydra-AdvanceReferences.md)  
+- [Hydra: Cheatsheet](Languages/Hydra-Cheatsheet.md)  
+
+### **CineCer0**  
+- [CineCer0: Intro](Languages/CineCer0-Intro.md)  
+- [CineCer0: Transforming Text, Image, or Video](Languages/CineCer0-Transformations.md)  
+- [CineCer0: Dynamic Values](Languages/CineCer0-DynValues.md)  
+- [CineCer0: Advanced References](Languages/CineCer0-AdvanceReferences.md)  
+- [CineCer0: Cheatsheet](Languages/CineCer0-Cheatsheet.md)  
+
+### **TydalCycles (MiniTidal)**  
+- [MiniTidal: Intro](Languages/MiniTidal-Intro.md)  
+- [MiniTidal: Transform Patterns](Languages/MiniTidal-TranformPatterns.md)  
+- [MiniTidal: Advanced References](Languages/MiniTidal-AdvanceReferences.md)  
+- [MiniTidal: Cheatsheet](Languages/MiniTidal-Cheatsheet.md)  
+
+📌 **Explore:**  
+✅ Identify **basic commands & syntax** that control visuals, text, or sound.  
+✅ Modify example code to see how it changes the output.  
+
+---  
+
+## 🔹 **Step 3: Create Your Executable Code-Poem**  
+
+📖 **Follow this tutorial to learn how to create a JSoLang:**  
+➡️ [Estuary: Working with JSoLangs](Estuary-WorkingWithJsoLangs.md)  
+
+Now, write a **short code-poem** that is both **readable as text** and **executable in Estuary**.  
+
+✅ **Use at least three syntax elements** from your chosen tool.  
+✅ **Experiment with poetic structure**—play with rhythm, repetition, or glitch aesthetics.  
+✅ **Test & refine**—observe how syntax manipulation shapes meaning.  
+
+💾 **Save your work** in a separate file for future use in Estuary.  
+
+---  
+
+### **🚀 Final Thoughts**  
+By engaging with **executable code-poetry**, you are blending **programming logic with poetic language**, transforming syntax into **an expressive medium**.  
+
+How does this experience change your perception of **code, language, and creative writing?**  
+
+--- 

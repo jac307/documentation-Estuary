@@ -65,12 +65,10 @@ The image features a glitchy, terminal-style digital poem displayed in green tex
 
 --
 
----
-
 # 🌟 Codework Activity: Writing Non-Executable Code-Poetry
 
 ## 🎯 Objective:
-Explore the intersection of **computer language syntax and poetry** by crafting your own **non-executable code-poetry** inspired by **CSS syntax**.
+Explore the intersection of **computer language syntax and poetry** by crafting a **non-executable code-poetry** using/breaking **CSS syntax**.
 
 ---
 
@@ -106,7 +104,7 @@ a:hover {
 - What words do you recognize?
 - How do you think the `body` and `a:hover` sections changes the style?
 
-💡 But what if we **repurposed its syntax** for poetry?
+💡 What if we **repurpose this CSS example create poetry**?
 - If CSS controlled emotions instead of styles, what would you write?
 
 ---
@@ -116,8 +114,8 @@ a:hover {
 ### **📝 Task: Write a Short Code-Poem**  
 In **pairs**, create a **code-inspired poem** using CSS syntax as your foundation.  
 
-✅ **Use at least two elements** from CSS (structure, symbols, functions, values).  
-✅ **Choose a theme** (e.g., memory, glitch, loss, love, repetition).  
+✅ **Use at least two elements** from CSS (structure, symbols, keywords, values).  
+✅ **Choose a theme** (e.g., memory, glitch, loss, love, happiness).  
 ✅ **Break the syntax if needed**—prioritize meaning over functionality; remember this is a non-functional codework!  
 
 ### **Examples Code Poetry (For Inspiration)**
@@ -155,14 +153,14 @@ love:active {
 ### 📢 Discussion Questions:
 - How does each piece **play with CSS syntax**?  
 - What **emotions or themes** emerge from the code?  
-- Could this be **read in multiple ways**?  
+- What **challenges did you face** when manipulating/breaking CSS syntax for creative expression?  
 
 ---
 
 ## 🔄 Wrap-Up:
+🔸 **Codeworks** s part of the field of **Electronic Literature**.  
 🔸 **Codeworks blurs the boundaries** between language, programming, and creative expression.    
-🔸 **Programming syntax can be a poetic structure**—it doesn't need to function, only to evoke meaning.   
-🔸 **How else could digital language be repurposed for creative writing?**  
+🔸 **Programming syntax can be a poetic structure** —evoking meaning even if it is not functional.   
 
 
 ---
