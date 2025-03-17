@@ -50,22 +50,25 @@ The **code-poetry** of *[Jessica A. Rodriguez](https://vimeo.com/jessicaarianne)
 
 **MEMORIAS** is a web-based project featuring **six executable codeworks**, integrating natural languages (**Spanish, English, Spanglish**) with **computing languages** to generate audiovisual textures.  
 
---
+---
 
 # 🌟 **Codework Activity: Writing Executable Code-Poetry in Estuary**  
 
 **Level:** Intermediate  
 
 ## 🎯 **Objective**  
-Explore the intersection of **computer language syntax and poetry** by crafting an **executable code-poem** using **JSoLangs** in [Estuary](https://estuary.mcmaster.ca/).  
+Explore the intersection of **computer language syntax and poetry** by crafting an **executable code-poem** using **JSoLangs** in <a href="https://estuary.mcmaster.ca/" target="_blank">Estuary</a>.  
 
-## 🎯 **Technologies**  
+
+## 💻 **Technologies**  
 
 **Estuary** is a *live coding platform for collaboration and experimentation with sound, music, and visuals in a web browser.*  
 
 **JSoLangs** are *small JavaScript programs* [built with the peggyjs/peggy library] *that transpile live-coded text into one or more of Estuary’s underlying languages* (Ogborn, et al., 2021).  
 
-📖 **Reference:** Ogborn, D., Littler, C., & Sicchio, K. (2021). *[JSoLangs: Ephemeral esolangs in a collaborative live coding environment](https://works.hcommons.org/records/fpq3s-6b149).* CSDH/SCHN @ Congress - 2021 University of Alberta.  
+📖 **Reference:** Ogborn, D., Littler, C., & Sicchio, K. (2021).  
+*<a href="https://works.hcommons.org/records/fpq3s-6b149" target="_blank">JSoLangs: Ephemeral esolangs in a collaborative live coding environment</a>.* CSDH/SCHN @ Congress - 2021 University of Alberta.  
+
 
 ---  
 
@@ -86,24 +89,25 @@ JSoLangs allow you to create **new poetic languages** on top of Estuary’s exis
 📌 Follow these tutorials to **learn how your tool works**:  
 
 ### **Hydra**  
-- [Hydra: Intro](Languages/Hydra-Intro.md)  
-- [Hydra: Transformers](Languages/Hydra-Transformers.md)  
-- [Hydra: Modulators & Operators](Languages/Hydra-ModOpe.md)  
-- [Hydra: Advanced References](Languages/Hydra-AdvanceReferences.md)  
-- [Hydra: Cheatsheet](Languages/Hydra-Cheatsheet.md)  
+- <a href="Languages/Hydra-Intro.md" target="_blank">Hydra: Intro</a>  
+- <a href="Languages/Hydra-Transformers.md" target="_blank">Hydra: Transformers</a>  
+- <a href="Languages/Hydra-ModOpe.md" target="_blank">Hydra: Modulators & Operators</a>  
+- <a href="Languages/Hydra-AdvanceReferences.md" target="_blank">Hydra: Advanced References</a>  
+- <a href="Languages/Hydra-Cheatsheet.md" target="_blank">Hydra: Cheatsheet</a>  
 
 ### **CineCer0**  
-- [CineCer0: Intro](Languages/CineCer0-Intro.md)  
-- [CineCer0: Transforming Text, Image, or Video](Languages/CineCer0-Transformations.md)  
-- [CineCer0: Dynamic Values](Languages/CineCer0-DynValues.md)  
-- [CineCer0: Advanced References](Languages/CineCer0-AdvanceReferences.md)  
-- [CineCer0: Cheatsheet](Languages/CineCer0-Cheatsheet.md)  
+- <a href="Languages/CineCer0-Intro.md" target="_blank">CineCer0: Intro</a>  
+- <a href="Languages/CineCer0-Transformations.md" target="_blank">CineCer0: Transforming Text, Image, or Video</a>  
+- <a href="Languages/CineCer0-DynValues.md" target="_blank">CineCer0: Dynamic Values</a>  
+- <a href="Languages/CineCer0-AdvanceReferences.md" target="_blank">CineCer0: Advanced References</a>  
+- <a href="Languages/CineCer0-Cheatsheet.md" target="_blank">CineCer0: Cheatsheet</a>  
 
 ### **TydalCycles (MiniTidal)**  
-- [MiniTidal: Intro](Languages/MiniTidal-Intro.md)  
-- [MiniTidal: Transform Patterns](Languages/MiniTidal-TranformPatterns.md)  
-- [MiniTidal: Advanced References](Languages/MiniTidal-AdvanceReferences.md)  
-- [MiniTidal: Cheatsheet](Languages/MiniTidal-Cheatsheet.md)  
+- <a href="Languages/MiniTidal-Intro.md" target="_blank">MiniTidal: Intro</a>  
+- <a href="Languages/MiniTidal-TranformPatterns.md" target="_blank">MiniTidal: Transform Patterns</a>  
+- <a href="Languages/MiniTidal-AdvanceReferences.md" target="_blank">MiniTidal: Advanced References</a>  
+- <a href="Languages/MiniTidal-Cheatsheet.md" target="_blank">MiniTidal: Cheatsheet</a>  
+
 
 📌 **Explore:**  
 ✅ Identify **basic commands & syntax** that control visuals, text, or sound.  
@@ -114,7 +118,7 @@ JSoLangs allow you to create **new poetic languages** on top of Estuary’s exis
 ## 🔹 **Step 3: Create Your Executable Code-Poem**  
 
 📖 **Follow this tutorial to learn how to create a JSoLang:**  
-➡️ [Estuary: Working with JSoLangs](Estuary-WorkingWithJsoLangs.md)  
+➡️ <a href="Estuary-WorkingWithJsoLangs.md" target="_blank">Estuary: Working with JSoLangs</a> 
 
 Now, write a **short code-poem** that is both **readable as text** and **executable in Estuary**.  
 
@@ -131,4 +135,4 @@ By engaging with **executable code-poetry**, you are blending **programming logi
 
 How does this experience change your perception of **code, language, and creative writing?**  
 
---- 
+---
