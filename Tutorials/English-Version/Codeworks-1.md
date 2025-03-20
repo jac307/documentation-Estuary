@@ -118,7 +118,7 @@ a:hover {
 ✅ **Choose a theme** (e.g., memory, glitch, loss, love, happiness).  
 ✅ **Use at least two elements** from CSS (structure, symbols, keywords, values).  
 ✅ **Use other languages**. You can write your code-poetry using a language other than English, or mixing words from different languages.  
-✅ **Break the syntax if needed**—prioritize meaning over functionality; remember this is a non-executable codework!  
+✅ **Break the syntax if needed**—remember this is a non-executable codework!  
 
 ### **Examples Code Poetry (For Inspiration)**
 
