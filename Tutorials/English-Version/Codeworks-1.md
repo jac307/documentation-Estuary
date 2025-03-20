@@ -37,16 +37,16 @@
 
 In simple terms, a **codework** is a form of **creative writing influenced by computer languages** (*<a href="https://collection.eliterature.org/1/aux/keywords.html" target="_blank">Electronic Literature Collection, Volume One</a>*).  
 
-Author **John Cayley** identifies categories for classifying codeworks, including:  
+Canadian author **John Cayley** identifies categories for classifying codeworks, including:  
 
 + **"Code infecting or modulating language"**—where the language functions, but the code is broken (*p.311-312*).
 
 **Cayley, J. (2006).** *Time code language: New media poetics and programmed signification.*  
 In **New Media Poetics: Contexts, Technotexts, and Theories**, pp. 307-334.
 
---
+The **code-poetry** (Fig.1) of Australian artist and poet *<a href="https://www.mezbreezedesign.com/" target="_blank">Mez Breeze</a>*, particularly her *<a href="https://anthology.rhizome.org/mez-breeze" target="_blank">Mezangelle</a>* style, exemplifies this category.  
 
-The **code-poetry** (Fig.1) of Australian artist and poet *<a href="https://www.mezbreezedesign.com/" target="_blank">Mez Breeze</a>*, particularly her *<a href="https://anthology.rhizome.org/mez-breeze" target="_blank">Mezangelle</a>* style, exemplifies this category. Her work is frequently described as **non-executable code-poetry**.
+Her work is frequently described as **non-functional code-poetry**, or as I call it, **non-executable code-poetry** where the code is **not broken** but purposely design in a way that not necessarily has to be read by a computer.
 
 <figure>
     <img src="imgs/93.png" width="400">
@@ -74,7 +74,7 @@ Explore the intersection of **computer language syntax and poetry** by crafting 
 
 ## 📌 Activity Overview:
 1. **Class Discussion:** Understanding CSS Syntax & Structure *(Whole Class, 10 min)*
-2. **Codework Writing:** Creating Your Code-Poetry *(Pairs, 10 min)*
+2. **Codework Writing:** Creating Your Code-Poetry *(In Groups, 10 min)*
 3. **Class Reflection:** Sharing and Analyzing Class Code-Poetry Examples *(Whole Class, 10 min)*
 
 ---
@@ -102,21 +102,23 @@ a:hover {
 ## 📢 Discussion Questions:
 - What programming symbols do you notice?
 - What words do you recognize?
-- How do you think the `body` and `a:hover` sections changes the style?
+- What similarities do you recognize in these two sections: `body` and `a:hover`?
 
 💡 What if we **repurpose this CSS example create poetry**?
 - If CSS controlled emotions instead of styles, what would you write?
 
 ---
 
-## 2️⃣ Codework Writing: Creating Your Code-Poetry *(Pairs, 10 min)*  
+## 2️⃣ Codework Writing: Creating Your Code-Poetry *(In Groups, 10 min)*  
 
 ### **📝 Task: Write a Short Code-Poem**  
-In **pairs**, create a **code-inspired poem** using CSS syntax as your foundation.  
+1. Go to **this online document**: <a href="https://docs.google.com/document/d/1rPHzvru9saW5Bf-Y6ho8K36VdwdjU2uCjj_UMOudpOw/edit?usp=sharing" target="_blank">Dropbox link</a>
+2. In **groups**, create a **code-inspired poem** using CSS syntax as your foundation.  
 
-✅ **Use at least two elements** from CSS (structure, symbols, keywords, values).  
-✅ **Choose a theme** (e.g., memory, glitch, loss, love, happiness).  
-✅ **Break the syntax if needed**—prioritize meaning over functionality; remember this is a non-functional codework!  
+✅ **Choose a theme** (e.g., memory, glitch, loss, love, happiness).
+✅ **Use at least two elements** from CSS (structure, symbols, keywords, values).
+✅ **Use other languages**. You can write your code-poetry using a language other than English, or mixing words from different languages.
+✅ **Break the syntax if needed**—prioritize meaning over functionality; remember this is a non-executable codework!  
 
 ### **Examples Code Poetry (For Inspiration)**
 
@@ -130,7 +132,7 @@ body {
 ```
 
 ```css
-sould {
+soul {
     transition: fading 20y slowly-coming-and-growing;
 }
 
@@ -141,14 +143,7 @@ love:active {
 }
 ```
 
-## 3️⃣ Class Reflection: Sharing and Analyzing Class Code-Poetry Examples *(Whole Class, 10 min)*  
-
-### 📌 Instructions:
-
-1. Save your codework as an image (JPEG) or PDF file.
-2. **Upload your codework** to this <a href="https://www.dropbox.com/request/N5HktCap6Am4VywsxCM1" target="_blank">Dropbox link</a>
-
-🔹 I will **open 2-3 examples** for the class to discuss.
+## 3️⃣ Class Reflection: Sharing Class Code-Poetry Examples *(Whole Class, 10 min)*  
 
 ### 📢 Discussion Questions:
 - How does each piece **play with CSS syntax**?  
@@ -158,9 +153,12 @@ love:active {
 ---
 
 ## 🔄 Wrap-Up:
-🔸 **Codeworks** s part of the field of **Electronic Literature**.  
-🔸 **Codeworks blurs the boundaries** between language, programming, and creative expression.    
-🔸 **Programming syntax can be a poetic structure** —evoking meaning even if it is not functional.   
+🔸 **Codeworks** is type of **Electronic Literature** because it **integrates** programming languages and code syntax into the fabric of literary expression.   
+🔸 **Codeworks "breaks"** both code syntax and language syntax for poetic & critical purposes.   
 
+## Why is this relevant?:
+🔸 **Codeworks exemplify** the intersection of computational thinking and creative expression.  
+🔸 **Codeworks intersects** with **Speculative Design** by challenging traditional narratives and exploring alternative ways to design computer languages and approach creative writing.  
+🔸 **How can executable-programming syntax be structured poetically to imagine new linguistic and computational realities?**
 
 ---
