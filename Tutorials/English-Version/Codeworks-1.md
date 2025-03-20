@@ -115,9 +115,9 @@ a:hover {
 1. Go to **this online document**: <a href="https://docs.google.com/document/d/1rPHzvru9saW5Bf-Y6ho8K36VdwdjU2uCjj_UMOudpOw/edit?usp=sharing" target="_blank">Dropbox link</a>
 2. In **groups**, create a **code-inspired poem** using CSS syntax as your foundation.  
 
-✅ **Choose a theme** (e.g., memory, glitch, loss, love, happiness).
-✅ **Use at least two elements** from CSS (structure, symbols, keywords, values).
-✅ **Use other languages**. You can write your code-poetry using a language other than English, or mixing words from different languages.
+✅ **Choose a theme** (e.g., memory, glitch, loss, love, happiness).  
+✅ **Use at least two elements** from CSS (structure, symbols, keywords, values).  
+✅ **Use other languages**. You can write your code-poetry using a language other than English, or mixing words from different languages.  
 ✅ **Break the syntax if needed**—prioritize meaning over functionality; remember this is a non-executable codework!  
 
 ### **Examples Code Poetry (For Inspiration)**
