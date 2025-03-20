@@ -146,9 +146,10 @@ love:active {
 ## 3️⃣ Class Reflection: Sharing Class Code-Poetry Examples *(Whole Class, 10 min)*  
 
 ### 📢 Discussion Questions:
-- How does each piece **play with CSS syntax**?  
-- What **emotions or themes** emerge from the code?  
-- What **challenges did you face** when manipulating/breaking CSS syntax for creative expression?  
+- What **words** and **symbols** does this code-poetry use?
+- What **themes** emerge from the code-poetry?  
+- What **challenges did you face** when manipulating/breaking CSS syntax for creative expression?
+- How would you **read** this code-poetry?
 
 ---
 
